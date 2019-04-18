@@ -597,7 +597,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 25
+                            "ioValue": 35
                         },
                         {
                             "name": "zDist",
@@ -618,7 +618,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -25
+                            "ioValue": -35
                         },
                         {
                             "name": "zDist",
@@ -648,10 +648,31 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 886,
+                    "y": 252,
+                    "uniqueID": 587103,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 369
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -100
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 864,
-                    "y": 63,
+                    "x": 995,
+                    "y": 84,
                     "uniqueID": 673389,
                     "ioValues": [
                         {
@@ -678,39 +699,10 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 886,
-                    "y": 252,
-                    "uniqueID": 587103,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 369
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -100
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 984,
-                    "y": 120,
-                    "uniqueID": 459080,
-                    "ioValues": []
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 1001,
-                    "y": 210,
+                    "x": 1057,
+                    "y": 208,
                     "uniqueID": 588801,
                     "ioValues": [
                         {
@@ -737,9 +729,17 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 1172,
+                    "y": 119,
+                    "uniqueID": 459080,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1025,
+                    "x": 1336,
                     "y": 164,
                     "ioValues": []
                 }
@@ -891,26 +891,26 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 673389,
-                    "ap2ID": 459080
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 409534",
                     "ap1ID": 587103,
                     "ap2ID": 588801
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 459080
+                    "ap2Name": "geometry1",
+                    "ap1ID": 673389,
+                    "ap2ID": 459080
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 588801,
                     "ap2ID": 459080
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 459080
                 }
             ]
         },
