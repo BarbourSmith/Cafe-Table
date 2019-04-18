@@ -650,7 +650,7 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 881,
+                    "x": 864,
                     "y": 63,
                     "uniqueID": 673389,
                     "ioValues": [
@@ -834,12 +834,6 @@
                     "ap2Name": "xDist",
                     "ap1ID": 365141,
                     "ap2ID": 587103
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 723151",
-                    "ap1ID": 221738,
-                    "ap2ID": 673389
                 },
                 {
                     "ap1Name": "geometry",
