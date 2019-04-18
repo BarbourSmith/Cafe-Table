@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 244,
-            "y": 174,
+            "x": 246,
+            "y": 173,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -555,7 +555,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -200
+                            "ioValue": -150
                         },
                         {
                             "name": "zDist",
@@ -576,7 +576,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -210
+                            "ioValue": -170
                         },
                         {
                             "name": "zDist",
@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 298,
-            "y": 163,
+            "x": 293,
+            "y": 159,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -951,8 +951,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 244,
-                    "y": 174,
+                    "x": 246,
+                    "y": 173,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1074,8 +1074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 298,
-                    "y": 163,
+                    "x": 293,
+                    "y": 159,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
