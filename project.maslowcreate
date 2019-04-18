@@ -453,8 +453,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 249,
-                    "y": 55,
+                    "x": 195,
+                    "y": 58,
                     "uniqueID": 209504,
                     "ioValues": [
                         {
@@ -496,8 +496,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 350,
-                    "y": 99,
+                    "x": 275,
+                    "y": 117,
                     "uniqueID": 698031,
                     "ioValues": [
                         {
@@ -506,7 +506,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 0.45
+                            "ioValue": 0.4
                         }
                     ],
                     "currentEquation": 2
@@ -593,7 +593,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 332.1
+                            "ioValue": 295.2
                         },
                         {
                             "name": "yDist",
@@ -614,7 +614,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 332.1
+                            "ioValue": 295.2
                         },
                         {
                             "name": "yDist",
