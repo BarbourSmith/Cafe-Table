@@ -3,21 +3,21 @@
         {
             "atomType": "Molecule",
             "name": "Shifted Cylinder",
-            "x": 468,
-            "y": 54,
+            "x": 472,
+            "y": 56,
             "uniqueID": 761197,
             "ioValues": [
                 {
                     "name": "Thickness",
-                    "ioValue": 10
+                    "ioValue": 18
                 },
                 {
                     "name": "Width",
-                    "ioValue": 10
+                    "ioValue": 1120
                 },
                 {
-                    "name": "Height",
-                    "ioValue": 10
+                    "name": "Length",
+                    "ioValue": 1180
                 },
                 {
                     "name": "ScaleX",
@@ -32,7 +32,7 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Height",
+                    "name": "Length",
                     "x": 31,
                     "y": 42,
                     "uniqueID": 805318,
@@ -84,7 +84,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 1180
                         },
                         {
                             "name": "y",
@@ -127,7 +127,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 1120
                         },
                         {
                             "name": "y",
@@ -145,7 +145,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -158,11 +158,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 20
+                            "ioValue": 1190
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 20
+                            "ioValue": 1130
                         },
                         {
                             "name": "zDist",
@@ -274,6 +274,14 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 27,
+                    "y": 50,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
                     "name": "Length",
                     "x": 33,
                     "y": 116,
@@ -289,31 +297,23 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 35,
-                    "y": 248,
-                    "uniqueID": 946740,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Shifted Cylinder",
-                    "x": 468,
-                    "y": 54,
+                    "x": 472,
+                    "y": 56,
                     "uniqueID": 761197,
                     "ioValues": [
                         {
                             "name": "Thickness",
-                            "ioValue": 10
+                            "ioValue": 18
                         },
                         {
                             "name": "Width",
-                            "ioValue": 10
+                            "ioValue": 1120
                         },
                         {
-                            "name": "Height",
-                            "ioValue": 10
+                            "name": "Length",
+                            "ioValue": 1180
                         },
                         {
                             "name": "ScaleX",
@@ -397,6 +397,24 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Thickness",
+                    "ap1ID": 946740,
+                    "ap2ID": 761197
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Length",
+                    "ap1ID": 170103,
+                    "ap2ID": 761197
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Width",
+                    "ap1ID": 830435,
+                    "ap2ID": 761197
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
