@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 258,
-            "y": 53,
+            "x": 260,
+            "y": 56,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -17,11 +17,11 @@
                 },
                 {
                     "name": "Length",
-                    "ioValue": 10
+                    "ioValue": 1180
                 },
                 {
                     "name": "Width",
-                    "ioValue": 1180
+                    "ioValue": 1120
                 }
             ],
             "topLevel": false,
@@ -29,16 +29,16 @@
                 {
                     "atomType": "Input",
                     "name": "Length",
-                    "x": 29,
-                    "y": 127,
+                    "x": 33,
+                    "y": 116,
                     "uniqueID": 170103,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
                     "name": "Width",
-                    "x": 29,
-                    "y": 166,
+                    "x": 33,
+                    "y": 175,
                     "uniqueID": 830435,
                     "ioValues": []
                 },
@@ -54,6 +54,24 @@
                             "ioValue": 30
                         }
                     ]
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 253,
+                    "y": 46,
+                    "uniqueID": 659079,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": 0
                 },
                 {
                     "atomType": "Circle",
@@ -201,8 +219,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 792,
-                    "y": 158,
+                    "x": 889,
+                    "y": 230,
                     "uniqueID": 782923,
                     "ioValues": [
                         {
@@ -235,16 +253,16 @@
                 {
                     "atomType": "Input",
                     "name": "Height",
-                    "x": 845,
-                    "y": 255,
+                    "x": 941,
+                    "y": 266,
                     "uniqueID": 132788,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 931,
-                    "y": 126,
+                    "x": 986,
+                    "y": 114,
                     "uniqueID": 347142,
                     "ioValues": [
                         {
@@ -384,11 +402,11 @@
                 },
                 {
                     "name": "Width",
-                    "ioValue": 1180
+                    "ioValue": 1120
                 },
                 {
                     "name": "Length",
-                    "ioValue": 10
+                    "ioValue": 1180
                 }
             ],
             "topLevel": true,
@@ -412,8 +430,8 @@
                 {
                     "atomType": "Input",
                     "name": "Width",
-                    "x": 39,
-                    "y": 166,
+                    "x": 40,
+                    "y": 168,
                     "uniqueID": 969106,
                     "ioValues": []
                 },
@@ -428,8 +446,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 258,
-                    "y": 53,
+                    "x": 260,
+                    "y": 56,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -442,11 +460,11 @@
                         },
                         {
                             "name": "Length",
-                            "ioValue": 10
+                            "ioValue": 1180
                         },
                         {
                             "name": "Width",
-                            "ioValue": 1180
+                            "ioValue": 1120
                         }
                     ]
                 },
