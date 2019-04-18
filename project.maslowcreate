@@ -6,9 +6,109 @@
             "x": 296,
             "y": 86,
             "uniqueID": 128495,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Width",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 29,
+                    "y": 50,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 30,
+                    "y": 116,
+                    "uniqueID": 132788,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 30,
+                    "y": 189,
+                    "uniqueID": 170103,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 31,
+                    "y": 265,
+                    "uniqueID": 830435,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Corner Radius",
+                    "x": 178,
+                    "y": 302,
+                    "uniqueID": 313462,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 360,
+                    "y": 270,
+                    "uniqueID": 145842,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 30
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 462,
+                    "y": 102,
+                    "uniqueID": 461683,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +117,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 313462,
+                    "ap2ID": 145842
+                }
+            ]
         },
         {
             "atomType": "Molecule",
@@ -83,7 +190,24 @@
                     "x": 296,
                     "y": 86,
                     "uniqueID": 128495,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Width",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Length",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
