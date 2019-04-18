@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 253,
-            "y": 90,
+            "x": 257,
+            "y": 99,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 260,
-            "y": 177,
+            "x": 256,
+            "y": 176,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -969,13 +969,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 422,
-                    "y": 55,
+                    "x": 351,
+                    "y": 48,
                     "uniqueID": 996098,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 50
+                            "ioValue": 100
                         },
                         {
                             "name": "yDist",
@@ -990,13 +990,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 433,
-                    "y": 159,
+                    "x": 362,
+                    "y": 127,
                     "uniqueID": 272094,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -50
+                            "ioValue": -100
                         },
                         {
                             "name": "yDist",
@@ -1011,8 +1011,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 441,
-                    "y": 213,
+                    "x": 360,
+                    "y": 200,
                     "uniqueID": 467734,
                     "ioValues": [
                         {
@@ -1032,8 +1032,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 424,
-                    "y": 279,
+                    "x": 357,
+                    "y": 277,
                     "uniqueID": 489718,
                     "ioValues": [
                         {
@@ -1053,8 +1053,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 731,
-                    "y": 155,
+                    "x": 546,
+                    "y": 159,
                     "uniqueID": 720074,
                     "ioValues": [
                         {
@@ -1079,6 +1079,23 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 778,
+                    "y": 82,
+                    "uniqueID": 646649,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -1187,8 +1204,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 253,
-                    "y": 90,
+                    "x": 257,
+                    "y": 99,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1204,8 +1221,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 260,
-                    "y": 177,
+                    "x": 256,
+                    "y": 176,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1238,8 +1255,8 @@
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 1047,
-                    "y": 130,
+                    "x": 815,
+                    "y": 112,
                     "uniqueID": 207884,
                     "ioValues": []
                 },
