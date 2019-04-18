@@ -532,8 +532,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 246,
-                    "y": 210,
+                    "x": 248,
+                    "y": 216,
                     "uniqueID": 348683,
                     "ioValues": [
                         {
@@ -968,7 +968,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 384,
+                    "x": 385,
                     "y": 280,
                     "uniqueID": 916284,
                     "ioValues": [
@@ -1008,14 +1008,6 @@
                     ]
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 673,
-                    "y": 178,
-                    "uniqueID": 519950,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1336,
@@ -1043,22 +1035,10 @@
                     "ap2ID": 916284
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 592212,
-                    "ap2ID": 519950
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 916284,
                     "ap2ID": 100569
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 100569,
-                    "ap2ID": 519950
                 }
             ]
         },
