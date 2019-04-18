@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 243,
-            "y": 178,
+            "x": 244,
+            "y": 174,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -477,7 +477,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 5
+                            "ioValue": 10
                         },
                         {
                             "name": "max segment size",
@@ -661,6 +661,18 @@
                         {
                             "name": "2D shape 514603",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 674680",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 180774",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 330883",
+                            "ioValue": 10
                         }
                     ],
                     "closedSelection": 0
@@ -837,15 +849,39 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "2D shape 723151",
+                    "ap1ID": 221738,
+                    "ap2ID": 673389
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 514603",
+                    "ap1ID": 278925,
+                    "ap2ID": 673389
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 732053",
                     "ap1ID": 381425,
                     "ap2ID": 588801
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "2D shape 674680",
+                    "ap1ID": 381425,
+                    "ap2ID": 673389
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 826310",
                     "ap1ID": 403710,
                     "ap2ID": 588801
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 180774",
+                    "ap1ID": 403710,
+                    "ap2ID": 673389
                 },
                 {
                     "ap1Name": "geometry",
@@ -881,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 295,
-            "y": 161,
+            "x": 298,
+            "y": 163,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -915,8 +951,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 243,
-                    "y": 178,
+                    "x": 244,
+                    "y": 174,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1038,8 +1074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 295,
-                    "y": 161,
+                    "x": 298,
+                    "y": 163,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
