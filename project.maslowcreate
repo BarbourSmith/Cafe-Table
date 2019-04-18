@@ -427,23 +427,35 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 263,
-            "y": 175,
+            "x": 316,
+            "y": 173,
             "uniqueID": 126979,
             "ioValues": [
                 {
-                    "name": "Input778376",
-                    "ioValue": 10
+                    "name": "Wood Thickness",
+                    "ioValue": 18
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 738
                 }
             ],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Input778376",
-                    "x": 34,
-                    "y": 99,
+                    "name": "Wood Thickness",
+                    "x": 31,
+                    "y": 98,
                     "uniqueID": 518481,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 35,
+                    "y": 182,
+                    "uniqueID": 440494,
                     "ioValues": []
                 },
                 {
@@ -542,13 +554,17 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 263,
-                    "y": 175,
+                    "x": 316,
+                    "y": 173,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
-                            "name": "Input778376",
-                            "ioValue": 10
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 738
                         }
                     ]
                 },
@@ -569,9 +585,21 @@
                 },
                 {
                     "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 185762,
+                    "ap2ID": 126979
+                },
+                {
+                    "ap1Name": "number or geometry",
                     "ap2Name": "Height",
                     "ap1ID": 453938,
                     "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 453938,
+                    "ap2ID": 126979
                 },
                 {
                     "ap1Name": "number or geometry",
