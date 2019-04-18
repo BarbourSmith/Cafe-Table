@@ -8,19 +8,23 @@
             "uniqueID": 761197,
             "ioValues": [
                 {
-                    "name": "Input708738",
+                    "name": "Thickness",
                     "ioValue": 10
                 },
                 {
-                    "name": "Input204033",
+                    "name": "Width",
                     "ioValue": 10
                 },
                 {
-                    "name": "Input106625",
+                    "name": "Height",
                     "ioValue": 10
                 },
                 {
-                    "name": "Input619581",
+                    "name": "ScaleX",
+                    "ioValue": 10
+                },
+                {
+                    "name": "ScaleY",
                     "ioValue": 10
                 }
             ],
@@ -28,35 +32,73 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Input708738",
-                    "x": 22,
-                    "y": 43,
+                    "name": "Thickness",
+                    "x": 30,
+                    "y": 47,
                     "uniqueID": 295765,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
-                    "name": "Input204033",
-                    "x": 205,
-                    "y": 205,
+                    "name": "Width",
+                    "x": 31,
+                    "y": 95,
                     "uniqueID": 595187,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
-                    "name": "Input106625",
-                    "x": 209,
-                    "y": 248,
+                    "name": "Height",
+                    "x": 29,
+                    "y": 156,
                     "uniqueID": 805318,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
-                    "name": "Input619581",
-                    "x": 214,
-                    "y": 304,
+                    "name": "ScaleX",
+                    "x": 34,
+                    "y": 217,
                     "uniqueID": 589445,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "ScaleY",
+                    "x": 31,
+                    "y": 273,
+                    "uniqueID": 613620,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Corner Radius",
+                    "x": 226,
+                    "y": 300,
+                    "uniqueID": 396562,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 373,
+                    "y": 231,
+                    "uniqueID": 462568,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 30
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -66,7 +108,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 396562,
+                    "ap2ID": 462568
+                }
+            ]
         },
         {
             "atomType": "Molecule",
@@ -126,19 +175,23 @@
                     "uniqueID": 761197,
                     "ioValues": [
                         {
-                            "name": "Input708738",
+                            "name": "Thickness",
                             "ioValue": 10
                         },
                         {
-                            "name": "Input204033",
+                            "name": "Width",
                             "ioValue": 10
                         },
                         {
-                            "name": "Input106625",
+                            "name": "Height",
                             "ioValue": 10
                         },
                         {
-                            "name": "Input619581",
+                            "name": "ScaleX",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "ScaleY",
                             "ioValue": 10
                         }
                     ]
