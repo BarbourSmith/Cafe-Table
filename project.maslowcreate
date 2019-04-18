@@ -650,8 +650,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 897,
-                    "y": 65,
+                    "x": 881,
+                    "y": 63,
                     "uniqueID": 673389,
                     "ioValues": [
                         {
