@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 249,
-            "y": 182,
+            "x": 248,
+            "y": 187,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -699,6 +699,14 @@
                     ]
                 },
                 {
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 984,
+                    "y": 120,
+                    "uniqueID": 459080,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 997,
@@ -729,17 +737,9 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 1144,
-                    "y": 120,
-                    "uniqueID": 459080,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1025,
                     "y": 164,
                     "ioValues": []
                 }
@@ -903,22 +903,22 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 588801,
-                    "ap2ID": 459080
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 459080
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 459080
+                    "ap2Name": "geometry2",
+                    "ap1ID": 588801,
+                    "ap2ID": 459080
                 }
             ]
         },
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 316,
-            "y": 167,
+            "x": 317,
+            "y": 170,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -951,8 +951,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 249,
-                    "y": 182,
+                    "x": 248,
+                    "y": 187,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1074,8 +1074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 316,
-                    "y": 167,
+                    "x": 317,
+                    "y": 170,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1093,15 +1093,19 @@
                     "name": "Output",
                     "x": 1336,
                     "y": 164,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 18
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "Wood Thickness",
-                    "ap1ID": 185762,
-                    "ap2ID": 128495
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 185762
                 },
                 {
                     "ap1Name": "number or geometry",
