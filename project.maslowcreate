@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 296,
-            "y": 86,
+            "x": 260,
+            "y": 53,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -37,24 +37,24 @@
                 {
                     "atomType": "Input",
                     "name": "Height",
-                    "x": 30,
-                    "y": 116,
+                    "x": 27,
+                    "y": 88,
                     "uniqueID": 132788,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
                     "name": "Length",
-                    "x": 30,
-                    "y": 189,
+                    "x": 29,
+                    "y": 127,
                     "uniqueID": 170103,
                     "ioValues": []
                 },
                 {
                     "atomType": "Input",
                     "name": "Width",
-                    "x": 31,
-                    "y": 265,
+                    "x": 29,
+                    "y": 166,
                     "uniqueID": 830435,
                     "ioValues": []
                 },
@@ -123,6 +123,12 @@
                     "ap2Name": "radius",
                     "ap1ID": 313462,
                     "ap2ID": 145842
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 145842,
+                    "ap2ID": 461683
                 }
             ]
         },
@@ -187,8 +193,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 296,
-                    "y": 86,
+                    "x": 260,
+                    "y": 53,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -217,7 +223,32 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 185762,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 453938,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Width",
+                    "ap1ID": 969106,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Length",
+                    "ap1ID": 120940,
+                    "ap2ID": 128495
+                }
+            ]
         }
     ]
 }
