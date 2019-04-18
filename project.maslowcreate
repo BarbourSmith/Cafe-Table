@@ -537,7 +537,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 20
+                            "ioValue": 10
                         },
                         {
                             "name": "zDist",
@@ -558,7 +558,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -20
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
@@ -650,6 +650,10 @@
                         },
                         {
                             "name": "2D shape 858418",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 514603",
                             "ioValue": 10
                         }
                     ],
@@ -787,7 +791,12 @@
                     "ap1ID": 381425,
                     "ap2ID": 673389
                 },
-                null
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 858418",
+                    "ap1ID": 403710,
+                    "ap2ID": 673389
+                }
             ]
         },
         {
