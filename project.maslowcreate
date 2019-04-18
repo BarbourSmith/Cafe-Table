@@ -459,6 +459,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 265,
+                    "y": 72,
+                    "uniqueID": 959388,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 186,
@@ -467,11 +488,53 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 20
                         },
                         {
                             "name": "max segment size",
                             "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 499,
+                    "y": 101,
+                    "uniqueID": 221738,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 508,
+                    "y": 176,
+                    "uniqueID": 278925,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -483,7 +546,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 480957,
+                    "ap2ID": 278925
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 480957,
+                    "ap2ID": 221738
+                }
+            ]
         },
         {
             "atomType": "Molecule",
