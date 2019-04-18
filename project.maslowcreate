@@ -8,16 +8,12 @@
             "uniqueID": 761197,
             "ioValues": [
                 {
-                    "name": "Thickness",
-                    "ioValue": 18
+                    "name": "Length",
+                    "ioValue": 1180
                 },
                 {
                     "name": "Width",
                     "ioValue": 1120
-                },
-                {
-                    "name": "Length",
-                    "ioValue": 1180
                 },
                 {
                     "name": "ScaleX",
@@ -26,6 +22,10 @@
                 {
                     "name": "ScaleY",
                     "ioValue": 10
+                },
+                {
+                    "name": "Thickness",
+                    "ioValue": 18
                 }
             ],
             "topLevel": false,
@@ -173,7 +173,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -254,16 +254,16 @@
             "uniqueID": 128495,
             "ioValues": [
                 {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
+                },
+                {
                     "name": "Length",
                     "ioValue": 1180
                 },
                 {
                     "name": "Width",
                     "ioValue": 1120
-                },
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
                 },
                 {
                     "name": "Height",
@@ -304,16 +304,12 @@
                     "uniqueID": 761197,
                     "ioValues": [
                         {
-                            "name": "Thickness",
-                            "ioValue": 18
+                            "name": "Length",
+                            "ioValue": 1180
                         },
                         {
                             "name": "Width",
                             "ioValue": 1120
-                        },
-                        {
-                            "name": "Length",
-                            "ioValue": 1180
                         },
                         {
                             "name": "ScaleX",
@@ -322,6 +318,10 @@
                         {
                             "name": "ScaleY",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "Thickness",
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -375,7 +375,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -432,12 +432,12 @@
             "uniqueID": 592212,
             "ioValues": [
                 {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                },
-                {
                     "name": "Height",
                     "ioValue": 738
+                },
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
                 }
             ],
             "topLevel": false,
@@ -739,7 +739,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -916,9 +916,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Leg",
             "x": 316,
-            "y": 173,
+            "y": 167,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -956,12 +956,12 @@
                     "uniqueID": 592212,
                     "ioValues": [
                         {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        },
-                        {
                             "name": "Height",
                             "ioValue": 738
+                        },
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -1054,16 +1054,16 @@
                     "uniqueID": 128495,
                     "ioValues": [
                         {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        },
+                        {
                             "name": "Length",
                             "ioValue": 1180
                         },
                         {
                             "name": "Width",
                             "ioValue": 1120
-                        },
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
                         },
                         {
                             "name": "Height",
@@ -1073,9 +1073,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Leg",
                     "x": 316,
-                    "y": 173,
+                    "y": 167,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
