@@ -102,7 +102,7 @@
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 364,
-                    "y": 159,
+                    "y": 162,
                     "uniqueID": 533295,
                     "ioValues": [
                         {
@@ -135,23 +135,10 @@
                     "currentEquation": 2
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 324,
-                    "y": 278,
-                    "uniqueID": 653883,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 18
-                        }
-                    ]
-                },
-                {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 456,
-                    "y": 112,
+                    "x": 410,
+                    "y": 108,
                     "uniqueID": 186538,
                     "ioValues": [
                         {
@@ -164,6 +151,19 @@
                         }
                     ],
                     "currentEquation": 2
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 324,
+                    "y": 278,
+                    "uniqueID": 653883,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 18
+                        }
+                    ]
                 },
                 {
                     "atomType": "Equation",
@@ -451,6 +451,12 @@
                     "ap2ID": 302740
                 },
                 {
+                    "ap1Name": "z",
+                    "ap2Name": "yDist",
+                    "ap1ID": 186538,
+                    "ap2ID": 326743
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 653883,
@@ -479,12 +485,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 653883,
                     "ap2ID": 302740
-                },
-                {
-                    "ap1Name": "z",
-                    "ap2Name": "yDist",
-                    "ap1ID": 186538,
-                    "ap2ID": 326743
                 },
                 {
                     "ap1Name": "z",
