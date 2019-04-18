@@ -969,13 +969,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 424,
-                    "y": 55,
+                    "x": 417,
+                    "y": 53,
                     "uniqueID": 996098,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 50
                         },
                         {
                             "name": "yDist",
@@ -990,13 +990,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 433,
-                    "y": 141,
+                    "x": 431,
+                    "y": 158,
                     "uniqueID": 272094,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -50
                         },
                         {
                             "name": "yDist",
@@ -1017,7 +1017,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 35
                         },
                         {
                             "name": "yDist",
@@ -1032,13 +1032,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 426,
-                    "y": 274,
+                    "x": 424,
+                    "y": 275,
                     "uniqueID": 489718,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -35
                         },
                         {
                             "name": "yDist",
@@ -1053,8 +1053,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 722,
-                    "y": 148,
+                    "x": 731,
+                    "y": 155,
                     "uniqueID": 720074,
                     "ioValues": [
                         {
@@ -1067,6 +1067,14 @@
                         },
                         {
                             "name": "2D shape 516739",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 594439",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 674504",
                             "ioValue": 10
                         }
                     ],
@@ -1110,6 +1118,18 @@
                     "ap2Name": "geometry",
                     "ap1ID": 731203,
                     "ap2ID": 996098
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 594439",
+                    "ap1ID": 996098,
+                    "ap2ID": 720074
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 516739",
+                    "ap1ID": 272094,
+                    "ap2ID": 720074
                 },
                 {
                     "ap1Name": "geometry",
