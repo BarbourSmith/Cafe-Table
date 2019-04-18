@@ -173,7 +173,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1005,
                     "y": 164,
                     "ioValues": []
                 }
@@ -326,6 +326,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1005,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 1056,
@@ -371,13 +378,6 @@
                             "ioValue": 738
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 248,
-            "y": 187,
+            "x": 249,
+            "y": 193,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 317,
-            "y": 170,
+            "x": 319,
+            "y": 169,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -951,8 +951,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 248,
-                    "y": 187,
+                    "x": 249,
+                    "y": 193,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -968,7 +968,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1025,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1074,8 +1074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 317,
-                    "y": 170,
+                    "x": 319,
+                    "y": 169,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1091,7 +1091,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1025,
                     "y": 164,
                     "ioValues": [
                         {
