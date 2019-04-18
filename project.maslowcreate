@@ -333,23 +333,7 @@
                     "uniqueID": 782923,
                     "ioValues": [
                         {
-                            "name": "2D shape 554288",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "2D shape 594946",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 322981",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 475629",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 663722",
                             "ioValue": 10
                         },
                         {
@@ -414,6 +398,12 @@
                     "ap2Name": "Width",
                     "ap1ID": 830435,
                     "ap2ID": 761197
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "2D shape 594946",
+                    "ap1ID": 761197,
+                    "ap2ID": 782923
                 },
                 {
                     "ap1Name": "geometry",
