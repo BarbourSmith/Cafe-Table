@@ -426,6 +426,38 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 263,
+            "y": 175,
+            "uniqueID": 126979,
+            "ioValues": [
+                {
+                    "name": "Input778376",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Input778376",
+                    "x": 34,
+                    "y": 99,
+                    "uniqueID": 518481,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1336,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": []
+        },
+        {
+            "atomType": "Molecule",
             "name": "Cafe Table",
             "x": 0,
             "y": 0,
@@ -504,6 +536,19 @@
                         {
                             "name": "Height",
                             "ioValue": 738
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 263,
+                    "y": 175,
+                    "uniqueID": 126979,
+                    "ioValues": [
+                        {
+                            "name": "Input778376",
+                            "ioValue": 10
                         }
                     ]
                 },
