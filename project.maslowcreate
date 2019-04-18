@@ -427,7 +427,7 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 233,
+            "x": 237,
             "y": 166,
             "uniqueID": 592212,
             "ioValues": [
@@ -951,7 +951,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 233,
+                    "x": 237,
                     "y": 166,
                     "uniqueID": 592212,
                     "ioValues": [
@@ -968,8 +968,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 379,
-                    "y": 269,
+                    "x": 384,
+                    "y": 280,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -989,8 +989,8 @@
                 {
                     "atomType": "Stretch",
                     "name": "Stretch",
-                    "x": 512,
-                    "y": 285,
+                    "x": 543,
+                    "y": 268,
                     "uniqueID": 100569,
                     "ioValues": [
                         {
@@ -1003,9 +1003,17 @@
                         },
                         {
                             "name": "z",
-                            "ioValue": 1
+                            "ioValue": -1
                         }
                     ]
+                },
+                {
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 673,
+                    "y": 178,
+                    "uniqueID": 519950,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1035,10 +1043,22 @@
                     "ap2ID": 916284
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 592212,
+                    "ap2ID": 519950
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 916284,
                     "ap2ID": 100569
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 100569,
+                    "ap2ID": 519950
                 }
             ]
         },
