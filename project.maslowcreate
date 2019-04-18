@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 263,
-            "y": 66,
+            "x": 253,
+            "y": 90,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -514,8 +514,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 285,
-                    "y": 152,
+                    "x": 287,
+                    "y": 156,
                     "uniqueID": 365141,
                     "ioValues": [
                         {
@@ -629,8 +629,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 806,
-                    "y": 201,
+                    "x": 803,
+                    "y": 206,
                     "uniqueID": 238565,
                     "ioValues": [
                         {
@@ -650,8 +650,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 886,
-                    "y": 252,
+                    "x": 880,
+                    "y": 260,
                     "uniqueID": 587103,
                     "ioValues": [
                         {
@@ -701,8 +701,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 1057,
-                    "y": 208,
+                    "x": 1058,
+                    "y": 209,
                     "uniqueID": 588801,
                     "ioValues": [
                         {
@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 258,
-            "y": 174,
+            "x": 260,
+            "y": 177,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -969,8 +969,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 417,
-                    "y": 53,
+                    "x": 422,
+                    "y": 55,
                     "uniqueID": 996098,
                     "ioValues": [
                         {
@@ -990,8 +990,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 431,
-                    "y": 158,
+                    "x": 433,
+                    "y": 159,
                     "uniqueID": 272094,
                     "ioValues": [
                         {
@@ -1011,8 +1011,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 431,
-                    "y": 210,
+                    "x": 441,
+                    "y": 213,
                     "uniqueID": 467734,
                     "ioValues": [
                         {
@@ -1033,7 +1033,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 424,
-                    "y": 275,
+                    "y": 279,
                     "uniqueID": 489718,
                     "ioValues": [
                         {
@@ -1187,8 +1187,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 263,
-                    "y": 66,
+                    "x": 253,
+                    "y": 90,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1204,8 +1204,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 258,
-                    "y": 174,
+                    "x": 260,
+                    "y": 177,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1217,8 +1217,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 488,
-                    "y": 53,
+                    "x": 591,
+                    "y": 60,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
