@@ -6,9 +6,22 @@
             "x": 0,
             "y": 0,
             "uniqueID": 241510,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": true,
             "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 45,
+                    "y": 67,
+                    "uniqueID": 185762,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
