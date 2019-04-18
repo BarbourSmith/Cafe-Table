@@ -2,6 +2,25 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Table Top",
+            "x": 296,
+            "y": 86,
+            "uniqueID": 128495,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1025,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": []
+        },
+        {
+            "atomType": "Molecule",
             "name": "Cafe Table",
             "x": 0,
             "y": 0,
@@ -13,6 +32,14 @@
                 },
                 {
                     "name": "Height",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Width",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Length",
                     "ioValue": 10
                 }
             ],
@@ -32,6 +59,30 @@
                     "x": 42,
                     "y": 120,
                     "uniqueID": 453938,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 39,
+                    "y": 166,
+                    "uniqueID": 969106,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 42,
+                    "y": 220,
+                    "uniqueID": 120940,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Table Top",
+                    "x": 296,
+                    "y": 86,
+                    "uniqueID": 128495,
                     "ioValues": []
                 },
                 {
