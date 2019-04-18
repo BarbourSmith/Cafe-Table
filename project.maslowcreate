@@ -655,19 +655,7 @@
                     "uniqueID": 673389,
                     "ioValues": [
                         {
-                            "name": "2D shape 279882",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 812818",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "2D shape 723151",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 858418",
                             "ioValue": 10
                         },
                         {
@@ -849,20 +837,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 279882",
-                    "ap1ID": 221738,
-                    "ap2ID": 673389
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 812818",
-                    "ap1ID": 278925,
-                    "ap2ID": 673389
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 723151",
-                    "ap1ID": 381425,
+                    "ap1ID": 221738,
                     "ap2ID": 673389
                 },
                 {
@@ -870,12 +846,6 @@
                     "ap2Name": "2D shape 732053",
                     "ap1ID": 381425,
                     "ap2ID": 588801
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 858418",
-                    "ap1ID": 403710,
-                    "ap2ID": 673389
                 },
                 {
                     "ap1Name": "geometry",
