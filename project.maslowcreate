@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Shifted Cylinder",
-            "x": 425,
-            "y": 126,
+            "x": 468,
+            "y": 54,
             "uniqueID": 761197,
             "ioValues": [
                 {
@@ -32,10 +32,10 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Thickness",
-                    "x": 30,
-                    "y": 47,
-                    "uniqueID": 295765,
+                    "name": "Height",
+                    "x": 31,
+                    "y": 42,
+                    "uniqueID": 805318,
                     "ioValues": []
                 },
                 {
@@ -44,14 +44,6 @@
                     "x": 31,
                     "y": 95,
                     "uniqueID": 595187,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 126,
-                    "y": 13,
-                    "uniqueID": 805318,
                     "ioValues": []
                 },
                 {
@@ -119,6 +111,14 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Thickness",
+                    "x": 368,
+                    "y": 289,
+                    "uniqueID": 295765,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 525,
@@ -131,7 +131,7 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ],
                     "currentEquation": 0
@@ -158,11 +158,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "zDist",
@@ -180,16 +180,58 @@
             ],
             "allConnectors": [
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 805318,
+                    "ap2ID": 294518
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 595187,
+                    "ap2ID": 588669
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "y",
+                    "ap1ID": 589445,
+                    "ap2ID": 294518
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "y",
+                    "ap1ID": 613620,
+                    "ap2ID": 588669
+                },
+                {
                     "ap1Name": "number",
                     "ap2Name": "radius",
                     "ap1ID": 396562,
                     "ap2ID": 462568
                 },
                 {
+                    "ap1Name": "z",
+                    "ap2Name": "xDist",
+                    "ap1ID": 294518,
+                    "ap2ID": 509072
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 462568,
                     "ap2ID": 915179
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 295765,
+                    "ap2ID": 915179
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "yDist",
+                    "ap1ID": 588669,
+                    "ap2ID": 509072
                 },
                 {
                     "ap1Name": "geometry",
@@ -257,8 +299,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Shifted Cylinder",
-                    "x": 425,
-                    "y": 126,
+                    "x": 468,
+                    "y": 54,
                     "uniqueID": 761197,
                     "ioValues": [
                         {
