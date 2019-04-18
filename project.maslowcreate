@@ -1,0 +1,23 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "Cafe Table",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 241510,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1025,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": []
+        }
+    ]
+}
