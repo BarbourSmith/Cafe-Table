@@ -58,8 +58,26 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 253,
-                    "y": 45,
+                    "x": 246,
+                    "y": 122,
+                    "uniqueID": 186538,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 274,
+                    "y": 47,
                     "uniqueID": 659079,
                     "ioValues": [
                         {
@@ -101,8 +119,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 336,
-                    "y": 87,
+                    "x": 400,
+                    "y": 62,
                     "uniqueID": 366773,
                     "ioValues": [
                         {
@@ -112,6 +130,24 @@
                         {
                             "name": "y",
                             "ioValue": 0.5
+                        }
+                    ],
+                    "currentEquation": 2
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 387,
+                    "y": 143,
+                    "uniqueID": 758779,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
                         }
                     ],
                     "currentEquation": 2
@@ -132,8 +168,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 585,
-                    "y": 51,
+                    "x": 620,
+                    "y": 49,
                     "uniqueID": 302740,
                     "ioValues": [
                         {
@@ -153,8 +189,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 633,
-                    "y": 121,
+                    "x": 677,
+                    "y": 120,
                     "uniqueID": 326743,
                     "ioValues": [
                         {
@@ -174,8 +210,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 677,
-                    "y": 189,
+                    "x": 729,
+                    "y": 185,
                     "uniqueID": 174320,
                     "ioValues": [
                         {
@@ -195,8 +231,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 721,
-                    "y": 244,
+                    "x": 795,
+                    "y": 235,
                     "uniqueID": 118620,
                     "ioValues": [
                         {
@@ -216,8 +252,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 797,
-                    "y": 278,
+                    "x": 896,
+                    "y": 270,
                     "uniqueID": 405941,
                     "ioValues": [
                         {
@@ -237,8 +273,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 889,
-                    "y": 230,
+                    "x": 1062,
+                    "y": 199,
                     "uniqueID": 782923,
                     "ioValues": [
                         {
@@ -271,16 +307,16 @@
                 {
                     "atomType": "Input",
                     "name": "Height",
-                    "x": 941,
-                    "y": 266,
+                    "x": 1114,
+                    "y": 262,
                     "uniqueID": 132788,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 986,
-                    "y": 114,
+                    "x": 1212,
+                    "y": 100,
                     "uniqueID": 347142,
                     "ioValues": [
                         {
@@ -300,7 +336,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1025,
+                    "x": 1336,
                     "y": 164,
                     "ioValues": []
                 }
