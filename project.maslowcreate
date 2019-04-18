@@ -929,27 +929,10 @@
             "topLevel": false,
             "allAtoms": [
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 93,
-                    "y": 55,
-                    "uniqueID": 741456,
-                    "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
                     "atomType": "Input",
                     "name": "Wood Thickness",
-                    "x": 51,
-                    "y": 249,
+                    "x": 69,
+                    "y": 84,
                     "uniqueID": 592465,
                     "ioValues": []
                 },
@@ -963,6 +946,23 @@
                         {
                             "name": "height",
                             "ioValue": 18
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 79,
+                    "y": 252,
+                    "uniqueID": 741456,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -1053,8 +1053,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 546,
-                    "y": 159,
+                    "x": 544,
+                    "y": 160,
                     "uniqueID": 720074,
                     "ioValues": [
                         {
@@ -1083,16 +1083,29 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 778,
-                    "y": 82,
+                    "x": 623,
+                    "y": 78,
                     "uniqueID": 646649,
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 837,
+                    "y": 87,
+                    "uniqueID": 242593,
+                    "ioValues": [
+                        {
+                            "name": "height",
                             "ioValue": 10
                         }
                     ]
@@ -1106,12 +1119,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 741456,
-                    "ap2ID": 731203
-                },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "height",
@@ -1135,6 +1142,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 731203,
                     "ap2ID": 996098
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 741456,
+                    "ap2ID": 731203
                 },
                 {
                     "ap1Name": "geometry",
@@ -1162,8 +1175,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 720074
+                    "ap2Name": "geometry",
+                    "ap1ID": 646649,
+                    "ap2ID": 242593
                 }
             ]
         },
