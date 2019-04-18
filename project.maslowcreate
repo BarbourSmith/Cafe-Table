@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 240,
-            "y": 172,
+            "x": 262,
+            "y": 70,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -916,6 +916,70 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 262,
+            "y": 170,
+            "uniqueID": 195812,
+            "ioValues": [
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 34,
+                    "y": 119,
+                    "uniqueID": 592465,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 123,
+                    "y": 242,
+                    "uniqueID": 741456,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 262,
+                    "y": 236,
+                    "uniqueID": 731203,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1336,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                null
+            ]
+        },
+        {
+            "atomType": "Molecule",
             "name": "Leg",
             "x": 293,
             "y": 163,
@@ -935,8 +999,8 @@
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
-                    "x": 31,
-                    "y": 98,
+                    "x": 36,
+                    "y": 28,
                     "uniqueID": 518481,
                     "ioValues": []
                 },
@@ -951,8 +1015,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 240,
-                    "y": 172,
+                    "x": 262,
+                    "y": 70,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -966,10 +1030,23 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 262,
+                    "y": 170,
+                    "uniqueID": 195812,
+                    "ioValues": [
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 330,
-                    "y": 66,
+                    "x": 488,
+                    "y": 53,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -989,8 +1066,8 @@
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 488,
-                    "y": 122,
+                    "x": 1047,
+                    "y": 130,
                     "uniqueID": 207884,
                     "ioValues": []
                 },
