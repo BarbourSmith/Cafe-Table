@@ -10,6 +10,10 @@
                 {
                     "name": "Wood Thickness",
                     "ioValue": 10
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 10
                 }
             ],
             "topLevel": true,
@@ -20,6 +24,14 @@
                     "x": 45,
                     "y": 67,
                     "uniqueID": 185762,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 42,
+                    "y": 120,
+                    "uniqueID": 453938,
                     "ioValues": []
                 },
                 {
