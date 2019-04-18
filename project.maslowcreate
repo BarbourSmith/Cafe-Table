@@ -509,13 +509,55 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 575,
-                    "y": 53,
+                    "x": 500,
+                    "y": 43,
                     "uniqueID": 221738,
                     "ioValues": [
                         {
                             "name": "xDist",
                             "ioValue": 369
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 20
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 577,
+                    "y": 74,
+                    "uniqueID": 278925,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 369
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -20
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 652,
+                    "y": 115,
+                    "uniqueID": 381425,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -530,13 +572,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 592,
-                    "y": 126,
-                    "uniqueID": 278925,
+                    "x": 729,
+                    "y": 151,
+                    "uniqueID": 403710,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 369
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
