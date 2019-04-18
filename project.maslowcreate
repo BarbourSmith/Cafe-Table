@@ -101,6 +101,19 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 524,
+                    "y": 219,
+                    "uniqueID": 915179,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1336,
@@ -114,6 +127,12 @@
                     "ap2Name": "radius",
                     "ap1ID": 396562,
                     "ap2ID": 462568
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 462568,
+                    "ap2ID": 915179
                 }
             ]
         },
