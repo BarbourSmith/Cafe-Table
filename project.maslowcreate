@@ -1071,8 +1071,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 544,
-                    "y": 160,
+                    "x": 536,
+                    "y": 158,
                     "uniqueID": 720074,
                     "ioValues": [
                         {
@@ -1101,8 +1101,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 670,
-                    "y": 65,
+                    "x": 677,
+                    "y": 64,
                     "uniqueID": 646649,
                     "ioValues": [
                         {
@@ -1118,20 +1118,28 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 831,
-                    "y": 96,
+                    "x": 836,
+                    "y": 100,
                     "uniqueID": 242593,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 18
                         }
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 939,
+                    "y": 169,
+                    "uniqueID": 684048,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1086,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1148,6 +1156,12 @@
                     "ap2Name": "x",
                     "ap1ID": 592465,
                     "ap2ID": 408400
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 592465,
+                    "ap2ID": 242593
                 },
                 {
                     "ap1Name": "geometry",
@@ -1205,9 +1219,21 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 720074,
+                    "ap2ID": 684048
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 646649,
                     "ap2ID": 242593
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 242593,
+                    "ap2ID": 684048
                 }
             ]
         },
