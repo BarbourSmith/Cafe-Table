@@ -426,25 +426,25 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 293,
-            "y": 193,
+            "name": "Long Part Of Leg",
+            "x": 254,
+            "y": 187,
             "uniqueID": 592212,
             "ioValues": [
                 {
-                    "name": "Input952828",
-                    "ioValue": 10
+                    "name": "Wood Thickness",
+                    "ioValue": 18
                 },
                 {
-                    "name": "Input149560",
-                    "ioValue": 10
+                    "name": "Height",
+                    "ioValue": 738
                 }
             ],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Input952828",
+                    "name": "Wood Thickness",
                     "x": 40,
                     "y": 94,
                     "uniqueID": 169184,
@@ -452,11 +452,28 @@
                 },
                 {
                     "atomType": "Input",
-                    "name": "Input149560",
+                    "name": "Height",
                     "x": 37,
                     "y": 165,
                     "uniqueID": 541167,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 186,
+                    "y": 241,
+                    "uniqueID": 480957,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -504,18 +521,18 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 293,
-                    "y": 193,
+                    "name": "Long Part Of Leg",
+                    "x": 254,
+                    "y": 187,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
-                            "name": "Input952828",
-                            "ioValue": 10
+                            "name": "Wood Thickness",
+                            "ioValue": 18
                         },
                         {
-                            "name": "Input149560",
-                            "ioValue": 10
+                            "name": "Height",
+                            "ioValue": 738
                         }
                     ]
                 },
@@ -527,7 +544,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": []
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 518481,
+                    "ap2ID": 592212
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 440494,
+                    "ap2ID": 592212
+                }
+            ]
         },
         {
             "atomType": "Molecule",
