@@ -453,8 +453,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 254,
-                    "y": 54,
+                    "x": 249,
+                    "y": 55,
                     "uniqueID": 209504,
                     "ioValues": [
                         {
@@ -469,18 +469,10 @@
                     "currentEquation": 2
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 58,
-                    "y": 258,
-                    "uniqueID": 169184,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 186,
-                    "y": 202,
+                    "x": 150,
+                    "y": 225,
                     "uniqueID": 480957,
                     "ioValues": [
                         {
@@ -494,11 +486,37 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 53,
+                    "y": 279,
+                    "uniqueID": 169184,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 319,
-                    "y": 116,
+                    "x": 350,
+                    "y": 99,
                     "uniqueID": 698031,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 738
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0.45
+                        }
+                    ],
+                    "currentEquation": 2
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 358,
+                    "y": 176,
+                    "uniqueID": 365141,
                     "ioValues": [
                         {
                             "name": "x",
@@ -514,8 +532,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 329,
-                    "y": 249,
+                    "x": 336,
+                    "y": 270,
                     "uniqueID": 348683,
                     "ioValues": [
                         {
@@ -537,7 +555,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -280
+                            "ioValue": -200
                         },
                         {
                             "name": "zDist",
@@ -558,7 +576,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -190
+                            "ioValue": -210
                         },
                         {
                             "name": "zDist",
@@ -575,7 +593,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 369
+                            "ioValue": 332.1
                         },
                         {
                             "name": "yDist",
@@ -596,7 +614,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 369
+                            "ioValue": 332.1
                         },
                         {
                             "name": "yDist",
@@ -702,6 +720,12 @@
                     "ap2ID": 698031
                 },
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 541167,
+                    "ap2ID": 365141
+                },
+                {
                     "ap1Name": "z",
                     "ap2Name": "xDist",
                     "ap1ID": 209504,
@@ -714,15 +738,15 @@
                     "ap2ID": 278925
                 },
                 {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 169184,
-                    "ap2ID": 348683
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 480957,
+                    "ap2ID": 348683
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 169184,
                     "ap2ID": 348683
                 },
                 {
@@ -736,6 +760,12 @@
                     "ap2Name": "xDist",
                     "ap1ID": 698031,
                     "ap2ID": 403710
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "xDist",
+                    "ap1ID": 365141,
+                    "ap2ID": 238565
                 },
                 {
                     "ap1Name": "geometry",
