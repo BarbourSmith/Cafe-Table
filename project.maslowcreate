@@ -9,11 +9,11 @@
             "ioValues": [
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 10
+                    "ioValue": 18
                 },
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 738
                 },
                 {
                     "name": "Length",
@@ -21,7 +21,7 @@
                 },
                 {
                     "name": "Width",
-                    "ioValue": 10
+                    "ioValue": 1180
                 }
             ],
             "topLevel": false,
@@ -89,7 +89,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -257,7 +257,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 738
                         }
                     ]
                 },
@@ -376,15 +376,15 @@
             "ioValues": [
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 10
+                    "ioValue": 18
                 },
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 738
                 },
                 {
                     "name": "Width",
-                    "ioValue": 10
+                    "ioValue": 1180
                 },
                 {
                     "name": "Length",
@@ -434,11 +434,11 @@
                     "ioValues": [
                         {
                             "name": "Wood Thickness",
-                            "ioValue": 10
+                            "ioValue": 18
                         },
                         {
                             "name": "Height",
-                            "ioValue": 10
+                            "ioValue": 738
                         },
                         {
                             "name": "Length",
@@ -446,7 +446,7 @@
                         },
                         {
                             "name": "Width",
-                            "ioValue": 10
+                            "ioValue": 1180
                         }
                     ]
                 },
