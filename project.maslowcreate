@@ -173,7 +173,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1005,
+                    "x": 1066,
                     "y": 164,
                     "ioValues": []
                 }
@@ -326,13 +326,6 @@
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1005,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 1056,
@@ -349,6 +342,13 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1066,
+                    "y": 164,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Input",
@@ -729,18 +729,18 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1066,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Union",
                     "name": "Union",
                     "x": 1172,
                     "y": 119,
                     "uniqueID": 459080,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1336,
-                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -1139,7 +1139,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1086,
+                    "x": 1066,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1333,7 +1333,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1086,
+                    "x": 1066,
                     "y": 164,
                     "ioValues": []
                 }
