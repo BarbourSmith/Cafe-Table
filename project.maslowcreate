@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 235,
-            "y": 157,
+            "x": 233,
+            "y": 166,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -951,8 +951,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 235,
-                    "y": 157,
+                    "x": 233,
+                    "y": 166,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -966,10 +966,31 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 379,
+                    "y": 269,
+                    "uniqueID": 916284,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Stretch",
                     "name": "Stretch",
-                    "x": 409,
-                    "y": 265,
+                    "x": 512,
+                    "y": 285,
                     "uniqueID": 100569,
                     "ioValues": [
                         {
@@ -978,21 +999,13 @@
                         },
                         {
                             "name": "y",
-                            "ioValue": -1
+                            "ioValue": 1
                         },
                         {
                             "name": "z",
                             "ioValue": 1
                         }
                     ]
-                },
-                {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 616,
-                    "y": 164,
-                    "uniqueID": 122418,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1019,19 +1032,13 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 592212,
-                    "ap2ID": 100569
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 592212,
-                    "ap2ID": 122418
+                    "ap2ID": 916284
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 100569,
-                    "ap2ID": 122418
+                    "ap2Name": "geometry",
+                    "ap1ID": 916284,
+                    "ap2ID": 100569
                 }
             ]
         },
