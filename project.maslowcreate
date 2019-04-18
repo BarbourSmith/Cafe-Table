@@ -4,17 +4,9 @@
             "atomType": "Molecule",
             "name": "Table Top",
             "x": 260,
-            "y": 56,
+            "y": 53,
             "uniqueID": 128495,
             "ioValues": [
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 738
-                },
                 {
                     "name": "Length",
                     "ioValue": 1180
@@ -22,6 +14,14 @@
                 {
                     "name": "Width",
                     "ioValue": 1120
+                },
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 738
                 }
             ],
             "topLevel": false,
@@ -609,17 +609,9 @@
                     "atomType": "Molecule",
                     "name": "Table Top",
                     "x": 260,
-                    "y": 56,
+                    "y": 53,
                     "uniqueID": 128495,
                     "ioValues": [
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        },
-                        {
-                            "name": "Height",
-                            "ioValue": 738
-                        },
                         {
                             "name": "Length",
                             "ioValue": 1180
@@ -627,13 +619,21 @@
                         {
                             "name": "Width",
                             "ioValue": 1120
+                        },
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 738
                         }
                     ]
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1025,
+                    "x": 1336,
                     "y": 164,
                     "ioValues": []
                 }
