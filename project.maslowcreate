@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 295,
-            "y": 160,
+            "x": 293,
+            "y": 163,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1038,6 +1038,11 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 916284,
                     "ap2ID": 207884
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 207884
                 }
             ]
         },
@@ -1127,8 +1132,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 295,
-                    "y": 160,
+                    "x": 293,
+                    "y": 163,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1146,20 +1151,10 @@
                     "name": "Output",
                     "x": 1336,
                     "y": 164,
-                    "ioValues": [
-                        {
-                            "name": "number or geometry",
-                            "ioValue": 18
-                        }
-                    ]
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 185762
-                },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Wood Thickness",
@@ -1189,6 +1184,11 @@
                     "ap2Name": "Length",
                     "ap1ID": 120940,
                     "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 126979
                 }
             ]
         }
