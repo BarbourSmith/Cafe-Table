@@ -1053,8 +1053,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 517,
-                    "y": 78,
+                    "x": 482,
+                    "y": 57,
                     "uniqueID": 408400,
                     "ioValues": [
                         {
@@ -1069,10 +1069,27 @@
                     "currentEquation": 2
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 544,
+                    "y": 95,
+                    "uniqueID": 646649,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 36
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 536,
-                    "y": 158,
+                    "x": 561,
+                    "y": 206,
                     "uniqueID": 720074,
                     "ioValues": [
                         {
@@ -1099,27 +1116,10 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Rectangle",
-                    "name": "Rectangle",
-                    "x": 677,
-                    "y": 64,
-                    "uniqueID": 646649,
-                    "ioValues": [
-                        {
-                            "name": "x length",
-                            "ioValue": 36
-                        },
-                        {
-                            "name": "y length",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 836,
-                    "y": 100,
+                    "x": 674,
+                    "y": 122,
                     "uniqueID": 242593,
                     "ioValues": [
                         {
@@ -1131,7 +1131,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1086,
+                    "x": 1336,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1172,6 +1172,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 731203,
                     "ap2ID": 996098
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 731203,
+                    "ap2ID": 489718
                 },
                 {
                     "ap1Name": "geometry",
