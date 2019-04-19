@@ -249,7 +249,7 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 265,
+            "x": 292,
             "y": 53,
             "uniqueID": 128495,
             "ioValues": [
@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 256,
-            "y": 176,
+            "x": 255,
+            "y": 179,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -1129,17 +1129,9 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 939,
-                    "y": 169,
-                    "uniqueID": 684048,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1066,
+                    "x": 1086,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1219,21 +1211,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 720074,
-                    "ap2ID": 684048
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 646649,
                     "ap2ID": 242593
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 242593,
-                    "ap2ID": 684048
                 }
             ]
         },
@@ -1241,7 +1221,7 @@
             "atomType": "Molecule",
             "name": "Leg",
             "x": 293,
-            "y": 163,
+            "y": 165,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1291,8 +1271,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 256,
-                    "y": 176,
+                    "x": 255,
+                    "y": 179,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1333,7 +1313,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1066,
+                    "x": 1086,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1449,7 +1429,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 265,
+                    "x": 292,
                     "y": 53,
                     "uniqueID": 128495,
                     "ioValues": [
@@ -1475,7 +1455,7 @@
                     "atomType": "Molecule",
                     "name": "Leg",
                     "x": 293,
-                    "y": 163,
+                    "y": 165,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
