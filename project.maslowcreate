@@ -1053,8 +1053,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 482,
-                    "y": 57,
+                    "x": 473,
+                    "y": 74,
                     "uniqueID": 408400,
                     "ioValues": [
                         {
@@ -1071,8 +1071,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 544,
-                    "y": 95,
+                    "x": 529,
+                    "y": 139,
                     "uniqueID": 646649,
                     "ioValues": [
                         {
@@ -1082,6 +1082,19 @@
                         {
                             "name": "y length",
                             "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 594,
+                    "y": 46,
+                    "uniqueID": 242593,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -1116,15 +1129,23 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 652,
-                    "y": 56,
-                    "uniqueID": 242593,
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 696,
+                    "y": 106,
+                    "uniqueID": 842030,
                     "ioValues": [
                         {
-                            "name": "height",
-                            "ioValue": 18
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -60
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -1231,6 +1252,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 242593,
+                    "ap2ID": 842030
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 720074,
                     "ap2ID": 798958
@@ -1238,7 +1265,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
-                    "ap1ID": 242593,
+                    "ap1ID": 842030,
                     "ap2ID": 798958
                 }
             ]
