@@ -931,8 +931,8 @@
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
-                    "x": 53,
-                    "y": 98,
+                    "x": 65,
+                    "y": 24,
                     "uniqueID": 592465,
                     "ioValues": []
                 },
@@ -969,8 +969,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 351,
-                    "y": 48,
+                    "x": 352,
+                    "y": 88,
                     "uniqueID": 996098,
                     "ioValues": [
                         {
@@ -990,8 +990,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 362,
-                    "y": 127,
+                    "x": 351,
+                    "y": 146,
                     "uniqueID": 272094,
                     "ioValues": [
                         {
@@ -1011,8 +1011,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 360,
-                    "y": 200,
+                    "x": 350,
+                    "y": 206,
                     "uniqueID": 467734,
                     "ioValues": [
                         {
@@ -1032,8 +1032,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 357,
-                    "y": 277,
+                    "x": 352,
+                    "y": 270,
                     "uniqueID": 489718,
                     "ioValues": [
                         {
@@ -1081,7 +1081,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -1118,8 +1118,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 674,
-                    "y": 122,
+                    "x": 652,
+                    "y": 56,
                     "uniqueID": 242593,
                     "ioValues": [
                         {
@@ -1127,6 +1127,14 @@
                             "ioValue": 18
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 823,
+                    "y": 230,
+                    "uniqueID": 798958,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1220,6 +1228,18 @@
                     "ap2Name": "geometry",
                     "ap1ID": 646649,
                     "ap2ID": 242593
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 720074,
+                    "ap2ID": 798958
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 242593,
+                    "ap2ID": 798958
                 }
             ]
         },
