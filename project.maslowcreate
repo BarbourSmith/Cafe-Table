@@ -433,7 +433,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 738
+                    "ioValue": 739
                 },
                 {
                     "name": "Wood Thickness",
@@ -459,11 +459,11 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 738
+                            "ioValue": 739
                         },
                         {
                             "name": "y",
-                            "ioValue": -0.5
+                            "ioValue": -1
                         }
                     ],
                     "currentEquation": 2
@@ -494,11 +494,11 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 738
+                            "ioValue": 739
                         },
                         {
                             "name": "y",
-                            "ioValue": 0.4
+                            "ioValue": -0.1
                         }
                     ],
                     "currentEquation": 2
@@ -520,11 +520,11 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 738
+                            "ioValue": 739
                         },
                         {
                             "name": "y",
-                            "ioValue": 0.5
+                            "ioValue": 0
                         }
                     ],
                     "currentEquation": 2
@@ -551,7 +551,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -369
+                            "ioValue": -739
                         },
                         {
                             "name": "yDist",
@@ -572,7 +572,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -369
+                            "ioValue": -739
                         },
                         {
                             "name": "yDist",
@@ -593,7 +593,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 295.2
+                            "ioValue": -73.9
                         },
                         {
                             "name": "yDist",
@@ -614,7 +614,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 295.2
+                            "ioValue": -73.9
                         },
                         {
                             "name": "yDist",
@@ -635,7 +635,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 369
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -656,7 +656,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 369
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -1313,7 +1313,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 738
+                            "ioValue": 739
                         },
                         {
                             "name": "Wood Thickness",
