@@ -1686,9 +1686,51 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 471,
-                    "y": 113,
+                    "x": 456,
+                    "y": 75,
                     "uniqueID": 445670,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 457,
+                    "y": 142,
+                    "uniqueID": 360676,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 459,
+                    "y": 216,
+                    "uniqueID": 748196,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
@@ -1742,6 +1784,24 @@
                     "ap2Name": "Length",
                     "ap1ID": 120940,
                     "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 126979,
+                    "ap2ID": 445670
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 126979,
+                    "ap2ID": 360676
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 126979,
+                    "ap2ID": 748196
                 }
             ]
         }
