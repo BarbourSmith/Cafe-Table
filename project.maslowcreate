@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 258,
-            "y": 101,
+            "x": 217,
+            "y": 85,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -1312,8 +1312,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 258,
-                    "y": 101,
+                    "x": 217,
+                    "y": 85,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1342,8 +1342,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 488,
-                    "y": 42,
+                    "x": 406,
+                    "y": 47,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -1363,8 +1363,8 @@
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 815,
-                    "y": 112,
+                    "x": 520,
+                    "y": 87,
                     "uniqueID": 207884,
                     "ioValues": []
                 },
