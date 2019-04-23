@@ -1692,7 +1692,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 120
                         },
                         {
                             "name": "y-axis degrees",
@@ -1700,7 +1700,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 90
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -1734,7 +1734,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -120
                         },
                         {
                             "name": "y-axis degrees",
@@ -1742,6 +1742,27 @@
                         },
                         {
                             "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 736,
+                    "y": 178,
+                    "uniqueID": 898521,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
                             "ioValue": 0
                         }
                     ]
