@@ -917,8 +917,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 255,
-            "y": 179,
+            "x": 237,
+            "y": 176,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -1152,15 +1152,36 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 823,
-                    "y": 230,
+                    "x": 763,
+                    "y": 224,
                     "uniqueID": 798958,
                     "ioValues": []
                 },
                 {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 867,
+                    "y": 105,
+                    "uniqueID": 220015,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1066,
+                    "x": 1336,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1270,8 +1291,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 798958,
+                    "ap2ID": 220015
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 798958
+                    "ap1ID": 220015
                 }
             ]
         },
@@ -1329,8 +1356,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 255,
-                    "y": 179,
+                    "x": 237,
+                    "y": 176,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1413,6 +1440,7 @@
                     "ap1ID": 592212,
                     "ap2ID": 207884
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
