@@ -1780,7 +1780,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -200
                         },
                         {
                             "name": "zDist",
