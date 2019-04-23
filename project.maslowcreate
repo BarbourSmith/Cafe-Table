@@ -427,8 +427,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 257,
-            "y": 105,
+            "x": 258,
+            "y": 101,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -906,6 +906,11 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 588801,
                     "ap2ID": 459080
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 459080
                 }
             ]
         },
@@ -1155,7 +1160,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1336,
+                    "x": 1066,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1273,8 +1278,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 293,
-            "y": 165,
+            "x": 288,
+            "y": 159,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1307,8 +1312,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 257,
-                    "y": 105,
+                    "x": 258,
+                    "y": 101,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1337,8 +1342,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 591,
-                    "y": 60,
+                    "x": 488,
+                    "y": 42,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -1507,8 +1512,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 293,
-                    "y": 165,
+                    "x": 288,
+                    "y": 159,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
