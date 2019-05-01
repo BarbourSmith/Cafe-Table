@@ -1820,8 +1820,8 @@
                 {
                     "atomType": "Union",
                     "name": "Union",
-                    "x": 838,
-                    "y": 188,
+                    "x": 960,
+                    "y": 110,
                     "uniqueID": 264467,
                     "ioValues": []
                 },
@@ -1923,6 +1923,11 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 162223,
                     "ap2ID": 264467
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 264467
                 }
             ]
         }
