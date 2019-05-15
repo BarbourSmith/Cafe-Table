@@ -411,8 +411,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 280,
-            "y": 95,
+            "x": 319,
+            "y": 121,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -902,8 +902,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 217,
-            "y": 227,
+            "x": 306,
+            "y": 269,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -1380,61 +1380,10 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Long Part Of Leg",
-                    "x": 280,
-                    "y": 95,
-                    "uniqueID": 592212,
-                    "ioValues": [
-                        {
-                            "name": "Height",
-                            "ioValue": 600
-                        },
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Top Triangle",
-                    "x": 217,
-                    "y": 227,
-                    "uniqueID": 195812,
-                    "ioValues": [
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 358,
-                    "y": 150,
-                    "uniqueID": 660965,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 406,
-                    "y": 47,
+                    "x": 331,
+                    "y": 49,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -1452,20 +1401,72 @@
                     ]
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 477,
-                    "y": 188,
-                    "uniqueID": 697240,
-                    "ioValues": []
+                    "atomType": "Molecule",
+                    "name": "Long Part Of Leg",
+                    "x": 319,
+                    "y": 121,
+                    "uniqueID": 592212,
+                    "ioValues": [
+                        {
+                            "name": "Height",
+                            "ioValue": 600
+                        },
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 520,
-                    "y": 87,
-                    "uniqueID": 207884,
-                    "ioValues": []
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 312,
+                    "y": 187,
+                    "uniqueID": 660965,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Top Triangle",
+                    "x": 306,
+                    "y": 269,
+                    "uniqueID": 195812,
+                    "ioValues": [
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 526,
+                    "y": 146,
+                    "uniqueID": 944868,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 844305",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 721478",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -1512,12 +1513,7 @@
                     "ap1ID": 592212,
                     "ap2ID": 916284
                 },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 592212,
-                    "ap2ID": 207884
-                },
+                null,
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
@@ -1526,21 +1522,9 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "2D shape 844305",
                     "ap1ID": 195812,
-                    "ap2ID": 697240
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 660965,
-                    "ap2ID": 697240
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 916284,
-                    "ap2ID": 207884
+                    "ap2ID": 944868
                 }
             ],
             "fileTypeVersion": 1
