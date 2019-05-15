@@ -173,7 +173,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -376,7 +376,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -713,18 +713,18 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1023,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Union",
                     "name": "Union",
                     "x": 1063,
                     "y": 123,
                     "uniqueID": 459080,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -1205,7 +1205,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1348,8 +1348,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 277,
-            "y": 195,
+            "x": 275,
+            "y": 194,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1478,7 +1478,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1638,8 +1638,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 277,
-                    "y": 195,
+                    "x": 275,
+                    "y": 194,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1779,30 +1779,50 @@
                     ]
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 767,
-                    "y": 88,
-                    "uniqueID": 162223,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 960,
-                    "y": 110,
-                    "uniqueID": 264467,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 185762,
+                    "ap2ID": 126979
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 185762,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 453938,
+                    "ap2ID": 126979
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 453938,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Width",
+                    "ap1ID": 969106,
+                    "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Length",
+                    "ap1ID": 120940,
+                    "ap2ID": 128495
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
@@ -1838,35 +1858,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 748196,
                     "ap2ID": 844424
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 898521,
-                    "ap2ID": 162223
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 431105,
-                    "ap2ID": 162223
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 844424,
-                    "ap2ID": 264467
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 162223,
-                    "ap2ID": 264467
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 264467
                 }
             ],
             "fileTypeVersion": 1
