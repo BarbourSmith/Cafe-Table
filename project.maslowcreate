@@ -411,8 +411,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 278,
-            "y": 87,
+            "x": 280,
+            "y": 95,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -1382,8 +1382,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 278,
-                    "y": 87,
+                    "x": 280,
+                    "y": 95,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1488,7 +1488,18 @@
                     "ap1ID": 518481,
                     "ap2ID": 660965
                 },
-                null,
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 518481,
+                    "ap2ID": 195812
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Wood Thickness",
+                    "ap1ID": 518481,
+                    "ap2ID": 592212
+                },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Height",
