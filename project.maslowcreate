@@ -260,15 +260,15 @@
                 },
                 {
                     "name": "Length",
-                    "ioValue": 10
+                    "ioValue": 1000
                 },
                 {
                     "name": "Width",
-                    "ioValue": 10
+                    "ioValue": 1200
                 },
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 600
                 }
             ],
             "topLevel": false,
@@ -369,7 +369,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -417,7 +417,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 600
                 },
                 {
                     "name": "Wood Thickness",
@@ -443,7 +443,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 600
                         },
                         {
                             "name": "y",
@@ -478,7 +478,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 600
                         },
                         {
                             "name": "y",
@@ -504,7 +504,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 600
                         },
                         {
                             "name": "y",
@@ -535,7 +535,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -556,7 +556,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -577,7 +577,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -1
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -598,7 +598,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -1
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -1349,7 +1349,7 @@
             "atomType": "Molecule",
             "name": "Leg",
             "x": 275,
-            "y": 194,
+            "y": 196,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1358,7 +1358,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 600
                 }
             ],
             "topLevel": false,
@@ -1388,7 +1388,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 10
+                            "ioValue": 600
                         },
                         {
                             "name": "Wood Thickness",
@@ -1558,15 +1558,15 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 10
+                    "ioValue": 600
                 },
                 {
                     "name": "Width",
-                    "ioValue": 10
+                    "ioValue": 1200
                 },
                 {
                     "name": "Length",
-                    "ioValue": 10
+                    "ioValue": 1000
                 }
             ],
             "topLevel": true,
@@ -1582,8 +1582,8 @@
                 {
                     "atomType": "Input",
                     "name": "Height",
-                    "x": 42,
-                    "y": 120,
+                    "x": 41,
+                    "y": 125,
                     "uniqueID": 453938,
                     "ioValues": []
                 },
@@ -1616,15 +1616,15 @@
                         },
                         {
                             "name": "Length",
-                            "ioValue": 10
+                            "ioValue": 1000
                         },
                         {
                             "name": "Width",
-                            "ioValue": 10
+                            "ioValue": 1200
                         },
                         {
                             "name": "Height",
-                            "ioValue": 10
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -1632,7 +1632,7 @@
                     "atomType": "Molecule",
                     "name": "Leg",
                     "x": 275,
-                    "y": 194,
+                    "y": 196,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1641,7 +1641,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 10
+                            "ioValue": 600
                         }
                     ]
                 },
