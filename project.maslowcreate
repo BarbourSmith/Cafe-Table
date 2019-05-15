@@ -634,8 +634,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 880,
-                    "y": 260,
+                    "x": 878,
+                    "y": 256,
                     "uniqueID": 587103,
                     "ioValues": [
                         {
@@ -1487,6 +1487,13 @@
                     "ap2Name": "yDist",
                     "ap1ID": 518481,
                     "ap2ID": 660965
+                },
+                null,
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Height",
+                    "ap1ID": 440494,
+                    "ap2ID": 592212
                 },
                 {
                     "ap1Name": "Geometry",
