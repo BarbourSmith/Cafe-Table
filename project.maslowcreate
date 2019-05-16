@@ -925,8 +925,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 306,
-            "y": 269,
+            "x": 308,
+            "y": 294,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -1371,8 +1371,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 269,
-            "y": 191,
+            "x": 266,
+            "y": 193,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1464,8 +1464,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 306,
-                    "y": 269,
+                    "x": 308,
+                    "y": 294,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1672,8 +1672,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 269,
-                    "y": 191,
+                    "x": 266,
+                    "y": 193,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
