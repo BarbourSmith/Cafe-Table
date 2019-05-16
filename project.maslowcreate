@@ -71,7 +71,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 30
+                            "ioValue": ""
                         }
                     ]
                 },
@@ -100,10 +100,6 @@
                     "y": 202,
                     "uniqueID": 462568,
                     "ioValues": [
-                        {
-                            "name": "radius",
-                            "ioValue": 30
-                        },
                         {
                             "name": "max segment size",
                             "ioValue": 1
@@ -150,6 +146,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 931,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 930,
@@ -169,13 +172,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -376,7 +372,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 931,
                     "y": 164,
                     "ioValues": []
                 }
@@ -683,6 +679,13 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 931,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 1003,
@@ -718,13 +721,6 @@
                     "x": 1063,
                     "y": 123,
                     "uniqueID": 459080,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -1182,6 +1178,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 931,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 955,
@@ -1201,13 +1204,6 @@
                             "ioValue": 9
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1483,7 +1479,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 931,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1817,7 +1813,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 931,
                     "y": 164,
                     "ioValues": []
                 }
