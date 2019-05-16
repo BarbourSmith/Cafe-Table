@@ -729,7 +729,7 @@
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -90
                         },
                         {
                             "name": "z-axis degrees",
