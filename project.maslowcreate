@@ -2,410 +2,6 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Shifted Cylinder",
-            "x": 466,
-            "y": 55,
-            "uniqueID": 761197,
-            "ioValues": [
-                {
-                    "name": "Length",
-                    "ioValue": 10
-                },
-                {
-                    "name": "Width",
-                    "ioValue": 10
-                },
-                {
-                    "name": "ScaleX",
-                    "ioValue": 10
-                },
-                {
-                    "name": "ScaleY",
-                    "ioValue": 10
-                },
-                {
-                    "name": "Thickness",
-                    "ioValue": 10
-                }
-            ],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Input",
-                    "name": "Length",
-                    "x": 31,
-                    "y": 42,
-                    "uniqueID": 805318,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Width",
-                    "x": 31,
-                    "y": 95,
-                    "uniqueID": 595187,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "ScaleX",
-                    "x": 29,
-                    "y": 139,
-                    "uniqueID": 589445,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "ScaleY",
-                    "x": 29,
-                    "y": 184,
-                    "uniqueID": 613620,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Constant",
-                    "name": "Corner Radius",
-                    "x": 226,
-                    "y": 300,
-                    "uniqueID": 396562,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": ""
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 414,
-                    "y": 61,
-                    "uniqueID": 294518,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 10
-                        }
-                    ],
-                    "currentEquation": 0
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 384,
-                    "y": 202,
-                    "uniqueID": 462568,
-                    "ioValues": [
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Thickness",
-                    "x": 368,
-                    "y": 289,
-                    "uniqueID": 295765,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 525,
-                    "y": 133,
-                    "uniqueID": 588669,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 10
-                        }
-                    ],
-                    "currentEquation": 0
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 528,
-                    "y": 233,
-                    "uniqueID": 915179,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 930,
-                    "y": 182,
-                    "uniqueID": 509072,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 20
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 20
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "x",
-                    "ap1ID": 805318,
-                    "ap2ID": 294518
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "x",
-                    "ap1ID": 595187,
-                    "ap2ID": 588669
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "y",
-                    "ap1ID": 589445,
-                    "ap2ID": 294518
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "y",
-                    "ap1ID": 613620,
-                    "ap2ID": 588669
-                },
-                {
-                    "ap1Name": "number",
-                    "ap2Name": "radius",
-                    "ap1ID": 396562,
-                    "ap2ID": 462568
-                },
-                {
-                    "ap1Name": "z",
-                    "ap2Name": "xDist",
-                    "ap1ID": 294518,
-                    "ap2ID": 509072
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 462568,
-                    "ap2ID": 915179
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 295765,
-                    "ap2ID": 915179
-                },
-                {
-                    "ap1Name": "z",
-                    "ap2Name": "yDist",
-                    "ap1ID": 588669,
-                    "ap2ID": 509072
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 915179,
-                    "ap2ID": 509072
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 509072
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
-            "name": "Table Top",
-            "x": 283,
-            "y": 48,
-            "uniqueID": 128495,
-            "ioValues": [
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                },
-                {
-                    "name": "Length",
-                    "ioValue": 1000
-                },
-                {
-                    "name": "Width",
-                    "ioValue": 1200
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 600
-                }
-            ],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 27,
-                    "y": 50,
-                    "uniqueID": 946740,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Length",
-                    "x": 33,
-                    "y": 116,
-                    "uniqueID": 170103,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Width",
-                    "x": 33,
-                    "y": 175,
-                    "uniqueID": 830435,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Shifted Cylinder",
-                    "x": 466,
-                    "y": 55,
-                    "uniqueID": 761197,
-                    "ioValues": [
-                        {
-                            "name": "Length",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "Width",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "Thickness",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 628,
-                    "y": 40,
-                    "uniqueID": 132788,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 760,
-                    "y": 205,
-                    "uniqueID": 901786,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 517260",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 785051",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 838,
-                    "y": 72,
-                    "uniqueID": 347142,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 600
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 517260",
-                    "ap1ID": 761197,
-                    "ap2ID": 901786
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap1ID": 132788,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 901786,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 347142
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Long Part Of Leg",
             "x": 324,
             "y": 114,
@@ -1543,6 +1139,410 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Shifted Cylinder",
+            "x": 466,
+            "y": 55,
+            "uniqueID": 761197,
+            "ioValues": [
+                {
+                    "name": "Length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Width",
+                    "ioValue": 10
+                },
+                {
+                    "name": "ScaleX",
+                    "ioValue": 10
+                },
+                {
+                    "name": "ScaleY",
+                    "ioValue": 10
+                },
+                {
+                    "name": "Thickness",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 31,
+                    "y": 42,
+                    "uniqueID": 805318,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 31,
+                    "y": 95,
+                    "uniqueID": 595187,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "ScaleX",
+                    "x": 29,
+                    "y": 139,
+                    "uniqueID": 589445,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "ScaleY",
+                    "x": 29,
+                    "y": 184,
+                    "uniqueID": 613620,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Constant",
+                    "name": "Corner Radius",
+                    "x": 226,
+                    "y": 300,
+                    "uniqueID": 396562,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": ""
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 414,
+                    "y": 61,
+                    "uniqueID": 294518,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 10
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 384,
+                    "y": 202,
+                    "uniqueID": 462568,
+                    "ioValues": [
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Thickness",
+                    "x": 368,
+                    "y": 289,
+                    "uniqueID": 295765,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 525,
+                    "y": 133,
+                    "uniqueID": 588669,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 10
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 528,
+                    "y": 233,
+                    "uniqueID": 915179,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 930,
+                    "y": 182,
+                    "uniqueID": 509072,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 20
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 20
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 805318,
+                    "ap2ID": 294518
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 595187,
+                    "ap2ID": 588669
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "y",
+                    "ap1ID": 589445,
+                    "ap2ID": 294518
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "y",
+                    "ap1ID": 613620,
+                    "ap2ID": 588669
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "radius",
+                    "ap1ID": 396562,
+                    "ap2ID": 462568
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "xDist",
+                    "ap1ID": 294518,
+                    "ap2ID": 509072
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 462568,
+                    "ap2ID": 915179
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 295765,
+                    "ap2ID": 915179
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "yDist",
+                    "ap1ID": 588669,
+                    "ap2ID": 509072
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 915179,
+                    "ap2ID": 509072
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 509072
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Table Top",
+            "x": 476,
+            "y": 50,
+            "uniqueID": 128495,
+            "ioValues": [
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 1000
+                },
+                {
+                    "name": "Width",
+                    "ioValue": 1200
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 600
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 27,
+                    "y": 50,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 33,
+                    "y": 116,
+                    "uniqueID": 170103,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 33,
+                    "y": 175,
+                    "uniqueID": 830435,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Shifted Cylinder",
+                    "x": 466,
+                    "y": 55,
+                    "uniqueID": 761197,
+                    "ioValues": [
+                        {
+                            "name": "Length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Width",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Thickness",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 628,
+                    "y": 40,
+                    "uniqueID": 132788,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 760,
+                    "y": 205,
+                    "uniqueID": 901786,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 517260",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 785051",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 838,
+                    "y": 72,
+                    "uniqueID": 347142,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 600
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "2D shape 517260",
+                    "ap1ID": 761197,
+                    "ap2ID": 901786
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "zDist",
+                    "ap1ID": 132788,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 901786,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 347142
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Cafe Table",
             "x": 0,
             "y": 0,
@@ -1601,31 +1601,6 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Table Top",
-                    "x": 283,
-                    "y": 48,
-                    "uniqueID": 128495,
-                    "ioValues": [
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        },
-                        {
-                            "name": "Length",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Width",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "Height",
-                            "ioValue": 600
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Molecule",
                     "name": "Leg",
                     "x": 266,
                     "y": 193,
@@ -1663,9 +1638,34 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Table Top",
+                    "x": 476,
+                    "y": 50,
+                    "uniqueID": 128495,
+                    "ioValues": [
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        },
+                        {
+                            "name": "Length",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Width",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 600
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 505,
+                    "x": 507,
                     "y": 136,
                     "uniqueID": 614542,
                     "ioValues": [
