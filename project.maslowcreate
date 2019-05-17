@@ -1160,34 +1160,16 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 763,
-                    "y": 224,
+                    "x": 842,
+                    "y": 182,
                     "uniqueID": 798958,
                     "ioValues": []
                 },
                 {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 812,
-                    "y": 24,
-                    "uniqueID": 969501,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 18
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 2
-                        }
-                    ],
-                    "currentEquation": 3
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 866,
-                    "y": 143,
+                    "x": 1035,
+                    "y": 104,
                     "uniqueID": 220015,
                     "ioValues": [
                         {
@@ -1201,27 +1183,6 @@
                         {
                             "name": "z-axis degrees",
                             "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 955,
-                    "y": 88,
-                    "uniqueID": 767995,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 9
                         }
                     ]
                 },
@@ -1251,12 +1212,6 @@
                     "ap2Name": "height",
                     "ap1ID": 592465,
                     "ap2ID": 242593
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "x",
-                    "ap1ID": 592465,
-                    "ap2ID": 969501
                 },
                 {
                     "ap1Name": "geometry",
@@ -1349,21 +1304,9 @@
                     "ap2ID": 220015
                 },
                 {
-                    "ap1Name": "z",
-                    "ap2Name": "zDist",
-                    "ap1ID": 969501,
-                    "ap2ID": 767995
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 220015,
-                    "ap2ID": 767995
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 767995
+                    "ap1ID": 220015
                 }
             ],
             "fileTypeVersion": 1
@@ -1475,6 +1418,35 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 741,
+                    "y": 126,
+                    "uniqueID": 404408,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 217152",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 342879",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 969575",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 859711",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 822275",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1520,10 +1492,22 @@
                     "ap2ID": 944868
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 859711",
+                    "ap1ID": 916284,
+                    "ap2ID": 404408
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 592212,
                     "ap2ID": 916284
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 969575",
+                    "ap1ID": 592212,
+                    "ap2ID": 404408
                 },
                 {
                     "ap1Name": "geometry",
@@ -1532,10 +1516,22 @@
                     "ap2ID": 944868
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 342879",
+                    "ap1ID": 660965,
+                    "ap2ID": 404408
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 195812,
                     "ap2ID": 660965
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 217152",
+                    "ap1ID": 195812,
+                    "ap2ID": 404408
                 }
             ],
             "fileTypeVersion": 1
