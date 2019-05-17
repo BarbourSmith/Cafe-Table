@@ -1532,6 +1532,11 @@
                     "ap2Name": "3D shape 217152",
                     "ap1ID": 195812,
                     "ap2ID": 404408
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 404408
                 }
             ],
             "fileTypeVersion": 1
@@ -1645,7 +1650,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 120
+                            "ioValue": 0
                         },
                         {
                             "name": "y-axis degrees",
@@ -1653,7 +1658,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -120
                         }
                     ]
                 },
@@ -1674,7 +1679,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 120
                         }
                     ]
                 },
@@ -1687,7 +1692,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": -120
+                            "ioValue": 0
                         },
                         {
                             "name": "y-axis degrees",
