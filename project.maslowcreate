@@ -1654,11 +1654,74 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -500
                         },
                         {
                             "name": "zDist",
                             "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 622,
+                    "y": 55,
+                    "uniqueID": 614542,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 120
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 614,
+                    "y": 269,
+                    "uniqueID": 443781,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 120
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 820,
+                    "y": 153,
+                    "uniqueID": 970091,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 198331",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 549458",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 772412",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1712,6 +1775,31 @@
                     "ap2Name": "geometry",
                     "ap1ID": 126979,
                     "ap2ID": 772913
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 772913,
+                    "ap2ID": 614542
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 772913,
+                    "ap2ID": 443781
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 549458",
+                    "ap1ID": 772913,
+                    "ap2ID": 970091
+                },
+                null,
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 198331",
+                    "ap1ID": 443781,
+                    "ap2ID": 970091
                 }
             ],
             "fileTypeVersion": 1
