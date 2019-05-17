@@ -1475,35 +1475,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 664,
-                    "y": 135,
-                    "uniqueID": 944868,
-                    "ioValues": [
-                        {
-                            "name": "2D shape 844305",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 721478",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 271630",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 788909",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 485086",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1555,12 +1526,6 @@
                     "ap2ID": 916284
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 271630",
-                    "ap1ID": 592212,
-                    "ap2ID": 944868
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "2D shape 721478",
                     "ap1ID": 660965,
@@ -1571,17 +1536,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 195812,
                     "ap2ID": 660965
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 844305",
-                    "ap1ID": 195812,
-                    "ap2ID": 944868
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 944868
                 }
             ],
             "fileTypeVersion": 1
