@@ -987,7 +987,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
@@ -1008,7 +1008,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
@@ -1149,7 +1149,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -50
+                            "ioValue": -60
                         },
                         {
                             "name": "zDist",
