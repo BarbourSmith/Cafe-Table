@@ -925,8 +925,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 308,
-            "y": 300,
+            "x": 313,
+            "y": 304,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -1094,19 +1094,6 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 594,
-                    "y": 46,
-                    "uniqueID": 242593,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 18
-                        }
-                    ]
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 561,
@@ -1135,6 +1122,19 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 608,
+                    "y": 64,
+                    "uniqueID": 242593,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 18
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -1168,8 +1168,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 814,
-                    "y": 46,
+                    "x": 812,
+                    "y": 24,
                     "uniqueID": 969501,
                     "ioValues": [
                         {
@@ -1186,17 +1186,17 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 809,
-                    "y": 139,
+                    "x": 866,
+                    "y": 143,
                     "uniqueID": 220015,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 90
+                            "ioValue": 0
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 90
+                            "ioValue": 0
                         },
                         {
                             "name": "z-axis degrees",
@@ -1326,15 +1326,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 242593,
-                    "ap2ID": 842030
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 720074,
                     "ap2ID": 798958
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 242593,
+                    "ap2ID": 842030
                 },
                 {
                     "ap1Name": "geometry",
@@ -1464,8 +1464,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 308,
-                    "y": 300,
+                    "x": 313,
+                    "y": 304,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
