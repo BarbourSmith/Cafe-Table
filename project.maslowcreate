@@ -1644,8 +1644,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 426,
-                    "y": 192,
+                    "x": 403,
+                    "y": 207,
                     "uniqueID": 772913,
                     "ioValues": [
                         {
@@ -1665,8 +1665,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 622,
-                    "y": 55,
+                    "x": 505,
+                    "y": 136,
                     "uniqueID": 614542,
                     "ioValues": [
                         {
@@ -1686,8 +1686,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 614,
-                    "y": 269,
+                    "x": 475,
+                    "y": 287,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
