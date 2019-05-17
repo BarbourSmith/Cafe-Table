@@ -1415,11 +1415,11 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 18
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 18
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -1514,12 +1514,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap1ID": 518481,
-                    "ap2ID": 916284
-                },
-                {
-                    "ap1Name": "number or geometry",
                     "ap2Name": "yDist",
                     "ap1ID": 518481,
                     "ap2ID": 660965
@@ -1535,6 +1529,12 @@
                     "ap2Name": "Wood Thickness",
                     "ap1ID": 518481,
                     "ap2ID": 592212
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "yDist",
+                    "ap1ID": 518481,
+                    "ap2ID": 916284
                 },
                 {
                     "ap1Name": "number or geometry",
