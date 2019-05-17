@@ -926,7 +926,7 @@
             "atomType": "Molecule",
             "name": "Top Triangle",
             "x": 308,
-            "y": 294,
+            "y": 300,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -970,7 +970,7 @@
                         },
                         {
                             "name": "max segment size",
-                            "ioValue": 1
+                            "ioValue": 3
                         }
                     ]
                 },
@@ -1465,7 +1465,7 @@
                     "atomType": "Molecule",
                     "name": "Top Triangle",
                     "x": 308,
-                    "y": 294,
+                    "y": 300,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
