@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -27
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
