@@ -1383,25 +1383,19 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
                     "ap2ID": 236969
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 972994
+                    "ap2ID": 139488
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 139488
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1411,8 +1405,8 @@
                 },
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
+                    "ap2Name": "Y",
+                    "ap1ID": 830435,
                     "ap2ID": 501890
                 },
                 {
@@ -1425,13 +1419,19 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
+                    "ap2ID": 139488
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
                     "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 139488
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "geometry",
@@ -1449,12 +1449,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
                     "ap2ID": 139488
                 },
                 {
@@ -1462,6 +1456,12 @@
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
                     "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "Geometry",
