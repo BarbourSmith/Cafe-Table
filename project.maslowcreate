@@ -1134,19 +1134,19 @@
             "ioValues": [
                 {
                     "name": "X",
-                    "ioValue": 10
+                    "ioValue": 1000
                 },
                 {
                     "name": "Y",
-                    "ioValue": 10
+                    "ioValue": 1200
                 },
                 {
                     "name": "ScaleX",
-                    "ioValue": 10
+                    "ioValue": 0.3
                 },
                 {
                     "name": "ScaleY",
-                    "ioValue": 10
+                    "ioValue": 0.4
                 }
             ],
             "topLevel": false,
@@ -1200,11 +1200,11 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 1000
                         },
                         {
                             "name": "y",
-                            "ioValue": 10
+                            "ioValue": 0.3
                         }
                     ],
                     "currentEquation": 2
@@ -1218,11 +1218,11 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 1200
                         },
                         {
                             "name": "y",
-                            "ioValue": 10
+                            "ioValue": 0.4
                         }
                     ],
                     "currentEquation": 2
@@ -1236,11 +1236,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 100
+                            "ioValue": 300
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 100
+                            "ioValue": 480
                         },
                         {
                             "name": "zDist",
@@ -1360,17 +1360,17 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 182,
-                    "y": 247,
+                    "x": 62,
+                    "y": 262,
                     "uniqueID": 545706,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "max segment size",
-                            "ioValue": 1
+                            "ioValue": 6
                         }
                     ]
                 },
@@ -1396,19 +1396,19 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 10
+                            "ioValue": 1000
                         },
                         {
                             "name": "Y",
-                            "ioValue": 10
+                            "ioValue": 1200
                         },
                         {
                             "name": "ScaleX",
-                            "ioValue": 10
+                            "ioValue": 0.3
                         },
                         {
                             "name": "ScaleY",
-                            "ioValue": 10
+                            "ioValue": 0.4
                         }
                     ]
                 },
@@ -1468,6 +1468,18 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
+                    "ap2ID": 761197
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap1ID": 830435,
+                    "ap2ID": 761197
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
