@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -60
+                            "ioValue": -70
                         },
                         {
                             "name": "yDist",
@@ -190,7 +190,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -60
+                            "ioValue": -70
                         },
                         {
                             "name": "yDist",
@@ -211,7 +211,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "yDist",
@@ -1128,7 +1128,7 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 485,
+            "x": 484,
             "y": 51,
             "uniqueID": 128495,
             "ioValues": [
@@ -1208,8 +1208,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 470,
-                    "y": 58,
+                    "x": 491,
+                    "y": 44,
                     "uniqueID": 793139,
                     "projectID": 187933479
                 },
@@ -1418,7 +1418,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 485,
+                    "x": 484,
                     "y": 51,
                     "uniqueID": 128495,
                     "ioValues": [
