@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -190,7 +190,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -211,7 +211,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -1128,8 +1128,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 483,
-            "y": 50,
+            "x": 485,
+            "y": 51,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1208,8 +1208,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 480,
-                    "y": 36,
+                    "x": 470,
+                    "y": 58,
                     "uniqueID": 793139,
                     "projectID": 187933479
                 },
@@ -1271,13 +1271,13 @@
             "allConnectors": [
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "X",
+                    "ap2Name": "Y",
                     "ap1ID": 170103,
                     "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
+                    "ap2Name": "X",
                     "ap1ID": 830435,
                     "ap2ID": 793139
                 },
@@ -1418,8 +1418,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 483,
-                    "y": 50,
+                    "x": 485,
+                    "y": 51,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1544,6 +1544,7 @@
                     "ap1ID": 453938,
                     "ap2ID": 128495
                 },
+                null,
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Width",
