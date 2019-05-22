@@ -1250,9 +1250,9 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 611,
-                    "y": 202,
-                    "uniqueID": 139488,
+                    "x": 576,
+                    "y": 207,
+                    "uniqueID": 578161,
                     "projectID": "187933479",
                     "ioValues": [
                         {
@@ -1307,10 +1307,6 @@
                     "uniqueID": 901786,
                     "ioValues": [
                         {
-                            "name": "2D shape 785051",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 196559",
                             "ioValue": 10
                         },
@@ -1323,11 +1319,15 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 416091",
+                            "name": "3D shape 578384",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 578384",
+                            "name": "3D shape 816532",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 876825",
                             "ioValue": 10
                         }
                     ],
@@ -1393,13 +1393,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 139488
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1417,13 +1417,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 139488
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "geometry",
@@ -1453,12 +1453,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 139488
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
                     "ap2ID": 236969
                 },
                 {
@@ -1468,8 +1462,14 @@
                     "ap2ID": 972994
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
+                    "ap2ID": 578161
+                },
+                {
                     "ap1Name": "Geometry",
-                    "ap2Name": "2D shape 785051",
+                    "ap2Name": "3D shape 816532",
                     "ap1ID": 793139,
                     "ap2ID": 901786
                 },
@@ -1487,8 +1487,8 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 416091",
-                    "ap1ID": 139488,
+                    "ap2Name": "3D shape 578384",
+                    "ap1ID": 578161,
                     "ap2ID": 901786
                 },
                 {
