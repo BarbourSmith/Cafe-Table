@@ -29,6 +29,3 @@
 ## Proportional Shift
 
 
-## Proportional Shift
-
-

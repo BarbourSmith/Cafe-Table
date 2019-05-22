@@ -1196,14 +1196,6 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 595,
-                    "y": 197,
-                    "uniqueID": 900715,
-                    "projectID": "187933479"
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
                     "x": 696,
                     "y": 253,
                     "uniqueID": 972994,
@@ -1222,10 +1214,6 @@
                         },
                         {
                             "name": "3D shape 196559",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 612029",
                             "ioValue": 10
                         },
                         {
@@ -1303,12 +1291,6 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 900715
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
                     "ap2ID": 972994
                 },
                 {
@@ -1322,12 +1304,6 @@
                     "ap2Name": "X",
                     "ap1ID": 170103,
                     "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 900715
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1369,12 +1345,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 900715
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
                     "ap2ID": 972994
                 },
                 {
@@ -1393,12 +1363,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 798177",
                     "ap1ID": 236969,
-                    "ap2ID": 901786
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 612029",
-                    "ap1ID": 900715,
                     "ap2ID": 901786
                 },
                 {
