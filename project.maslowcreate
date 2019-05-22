@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -190,7 +190,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -211,7 +211,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -1129,7 +1129,7 @@
             "atomType": "Molecule",
             "name": "Table Top",
             "x": 484,
-            "y": 51,
+            "y": 41,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1153,14 +1153,6 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 27,
-                    "y": 50,
-                    "uniqueID": 946740,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
                     "name": "Length",
                     "x": 33,
                     "y": 116,
@@ -1178,8 +1170,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 57,
-                    "y": 262,
+                    "x": 48,
+                    "y": 236,
                     "uniqueID": 545706,
                     "ioValues": [
                         {
@@ -1193,6 +1185,14 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 89,
+                    "y": 304,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 254,
@@ -1201,7 +1201,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 18
                         }
                     ]
                 },
@@ -1285,6 +1285,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 545706,
+                    "ap2ID": 539017
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 946740,
                     "ap2ID": 539017
                 },
                 {
@@ -1419,7 +1425,7 @@
                     "atomType": "Molecule",
                     "name": "Table Top",
                     "x": 484,
-                    "y": 51,
+                    "y": 41,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
