@@ -259,36 +259,6 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 962,
-                    "y": 241,
-                    "uniqueID": 824927,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 320186",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 498722",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 871073",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 294264",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 513917",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
-                },
-                {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
                     "x": 992,
                     "y": 138,
                     "uniqueID": 588801,
@@ -482,12 +452,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 871073",
-                    "ap1ID": 403710,
-                    "ap2ID": 824927
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 929068",
                     "ap1ID": 238565,
                     "ap2ID": 588801
@@ -503,12 +467,6 @@
                     "ap2Name": "2D shape 314953",
                     "ap1ID": 928790,
                     "ap2ID": 588801
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 320186",
-                    "ap1ID": 928790,
-                    "ap2ID": 824927
                 },
                 {
                     "ap1Name": "geometry",
