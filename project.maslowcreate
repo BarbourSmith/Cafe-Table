@@ -3,7 +3,7 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 321,
+            "x": 323,
             "y": 124,
             "uniqueID": 592212,
             "ioValues": [
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -27
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -337,7 +337,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 149,
                     "ioValues": []
                 }
             ],
@@ -786,7 +786,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 149,
                     "ioValues": []
                 }
             ],
@@ -910,8 +910,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 256,
-            "y": 239,
+            "x": 246,
+            "y": 246,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -965,7 +965,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 321,
+                    "x": 323,
                     "y": 124,
                     "uniqueID": 592212,
                     "ioValues": [
@@ -1046,7 +1046,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 149,
                     "ioValues": []
                 }
             ],
@@ -1133,16 +1133,16 @@
             "uniqueID": 128495,
             "ioValues": [
                 {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                },
-                {
                     "name": "Length",
                     "ioValue": 1000
                 },
                 {
                     "name": "Width",
                     "ioValue": 1200
+                },
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
                 },
                 {
                     "name": "Height",
@@ -1264,23 +1264,11 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 149,
                     "ioValues": []
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 170103,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 830435,
-                    "ap2ID": 793139
-                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
@@ -1292,12 +1280,6 @@
                     "ap2Name": "height",
                     "ap1ID": 946740,
                     "ap2ID": 539017
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "Geometry",
@@ -1386,8 +1368,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 256,
-                    "y": 239,
+                    "x": 246,
+                    "y": 246,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1429,16 +1411,16 @@
                     "uniqueID": 128495,
                     "ioValues": [
                         {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        },
-                        {
                             "name": "Length",
                             "ioValue": 1000
                         },
                         {
                             "name": "Width",
                             "ioValue": 1200
+                        },
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
                         },
                         {
                             "name": "Height",
@@ -1521,7 +1503,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 149,
                     "ioValues": []
                 }
             ],
