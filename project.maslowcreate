@@ -1128,16 +1128,16 @@
         {
             "atomType": "Molecule",
             "name": "Shifted Cylinder",
-            "x": 466,
-            "y": 55,
+            "x": 463,
+            "y": 65,
             "uniqueID": 761197,
             "ioValues": [
                 {
-                    "name": "Length",
+                    "name": "X",
                     "ioValue": 10
                 },
                 {
-                    "name": "Width",
+                    "name": "Y",
                     "ioValue": 10
                 },
                 {
@@ -1157,7 +1157,7 @@
             "allAtoms": [
                 {
                     "atomType": "Input",
-                    "name": "Length",
+                    "name": "X",
                     "x": 31,
                     "y": 42,
                     "uniqueID": 805318,
@@ -1165,7 +1165,7 @@
                 },
                 {
                     "atomType": "Input",
-                    "name": "Width",
+                    "name": "Y",
                     "x": 31,
                     "y": 95,
                     "uniqueID": 595187,
@@ -1371,8 +1371,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 476,
-            "y": 50,
+            "x": 475,
+            "y": 49,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1421,16 +1421,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Shifted Cylinder",
-                    "x": 466,
-                    "y": 55,
+                    "x": 463,
+                    "y": 65,
                     "uniqueID": 761197,
                     "ioValues": [
                         {
-                            "name": "Length",
+                            "name": "X",
                             "ioValue": 10
                         },
                         {
-                            "name": "Width",
+                            "name": "Y",
                             "ioValue": 10
                         },
                         {
@@ -1628,8 +1628,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 476,
-                    "y": 50,
+                    "x": 475,
+                    "y": 49,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
