@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 318,
-            "y": 114,
+            "x": 321,
+            "y": 124,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -521,8 +521,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 309,
-            "y": 308,
+            "x": 304,
+            "y": 278,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -910,8 +910,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 271,
-            "y": 249,
+            "x": 256,
+            "y": 239,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -965,8 +965,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 318,
-                    "y": 114,
+                    "x": 321,
+                    "y": 124,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1003,8 +1003,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 309,
-                    "y": 308,
+                    "x": 304,
+                    "y": 278,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -1386,8 +1386,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 271,
-                    "y": 249,
+                    "x": 256,
+                    "y": 239,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1403,8 +1403,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 403,
-                    "y": 207,
+                    "x": 393,
+                    "y": 197,
                     "uniqueID": 772913,
                     "ioValues": [
                         {
@@ -1470,8 +1470,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 475,
-                    "y": 278,
+                    "x": 504,
+                    "y": 271,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
