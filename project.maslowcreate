@@ -1173,8 +1173,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 463,
-            "y": 49,
+            "x": 464,
+            "y": 53,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1268,11 +1268,11 @@
                         },
                         {
                             "name": "ScaleX",
-                            "ioValue": 0.3
+                            "ioValue": 0.5
                         },
                         {
                             "name": "ScaleY",
-                            "ioValue": 0.4
+                            "ioValue": 0.5
                         }
                     ]
                 },
@@ -1706,8 +1706,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 463,
-                    "y": 49,
+                    "x": 464,
+                    "y": 53,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
