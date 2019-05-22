@@ -1525,6 +1525,86 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 788,
+            "y": 258,
+            "uniqueID": 470776,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 103,
+                    "y": 72,
+                    "uniqueID": 794115,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 226,
+                    "y": 242,
+                    "uniqueID": 442500,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 352,
+                    "y": 244,
+                    "uniqueID": 819794,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 421,
+                    "y": 89,
+                    "uniqueID": 575747,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1014,
+                    "y": 161.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Cafe Table",
             "x": 0,
             "y": 0,
@@ -1685,6 +1765,14 @@
                             "ioValue": 120
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 788,
+                    "y": 258,
+                    "uniqueID": 470776,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
