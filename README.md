@@ -17,6 +17,6 @@
 ## Table Top
 
 
-## Shifted Cylinder
+## Proportional Shift
 
 

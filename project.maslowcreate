@@ -1127,7 +1127,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Shifted Cylinder",
+            "name": "Proportional Shift",
             "x": 463,
             "y": 65,
             "uniqueID": 761197,
@@ -1146,10 +1146,6 @@
                 },
                 {
                     "name": "ScaleY",
-                    "ioValue": 10
-                },
-                {
-                    "name": "Geometry",
                     "ioValue": 10
                 }
             ],
@@ -1211,7 +1207,7 @@
                             "ioValue": 10
                         }
                     ],
-                    "currentEquation": 0
+                    "currentEquation": 2
                 },
                 {
                     "atomType": "Equation",
@@ -1229,7 +1225,7 @@
                             "ioValue": 10
                         }
                     ],
-                    "currentEquation": 0
+                    "currentEquation": 2
                 },
                 {
                     "atomType": "Translate",
@@ -1239,16 +1235,12 @@
                     "uniqueID": 509072,
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "xDist",
-                            "ioValue": 20
+                            "ioValue": 100
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 20
+                            "ioValue": 100
                         },
                         {
                             "name": "zDist",
@@ -1366,8 +1358,38 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 182,
+                    "y": 247,
+                    "uniqueID": 545706,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 308,
+                    "y": 249,
+                    "uniqueID": 539017,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
-                    "name": "Shifted Cylinder",
+                    "name": "Proportional Shift",
                     "x": 463,
                     "y": 65,
                     "uniqueID": 761197,
@@ -1386,10 +1408,6 @@
                         },
                         {
                             "name": "ScaleY",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "Geometry",
                             "ioValue": 10
                         }
                     ]
@@ -1450,6 +1468,18 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 545706,
+                    "ap2ID": 539017
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
+                    "ap2ID": 761197
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "2D shape 517260",
