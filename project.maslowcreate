@@ -1186,6 +1186,30 @@
                     "projectID": "187933479"
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 520,
+                    "y": 152,
+                    "uniqueID": 236969,
+                    "projectID": "187933479"
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 595,
+                    "y": 197,
+                    "uniqueID": 900715,
+                    "projectID": "187933479"
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 696,
+                    "y": 253,
+                    "uniqueID": 972994,
+                    "projectID": "187933479"
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 889,
@@ -1245,13 +1269,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 793139
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 501890
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1275,13 +1299,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 793139
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 501890
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "Geometry",
