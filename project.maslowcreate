@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 315,
-            "y": 120,
+            "x": 318,
+            "y": 114,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "yDist",
@@ -521,7 +521,7 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 311,
+            "x": 309,
             "y": 308,
             "uniqueID": 195812,
             "ioValues": [
@@ -965,8 +965,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 315,
-                    "y": 120,
+                    "x": 318,
+                    "y": 114,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1003,7 +1003,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 311,
+                    "x": 309,
                     "y": 308,
                     "uniqueID": 195812,
                     "ioValues": [
