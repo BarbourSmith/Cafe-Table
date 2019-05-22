@@ -1091,6 +1091,83 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 875,
+            "y": 246,
+            "uniqueID": 129950,
+            "ioValues": [
+                {
+                    "name": "Input394171",
+                    "ioValue": 10
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Input394171",
+                    "x": 81,
+                    "y": 118,
+                    "uniqueID": 722187,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 260,
+                    "y": 219,
+                    "uniqueID": 970306,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 394,
+                    "y": 122,
+                    "uniqueID": 749112,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap1ID": 722187,
+                    "ap2ID": 749112
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 970306,
+                    "ap2ID": 749112
+                },
+                null
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Table Top",
             "x": 472,
             "y": 55,
@@ -15967,6 +16044,19 @@
                     "y": 26,
                     "uniqueID": 132788,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 875,
+                    "y": 246,
+                    "uniqueID": 129950,
+                    "ioValues": [
+                        {
+                            "name": "Input394171",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
