@@ -1172,8 +1172,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 491,
-                    "y": 44,
+                    "x": 473,
+                    "y": 78,
                     "uniqueID": 793139,
                     "projectID": 187933479
                 },
@@ -1234,6 +1234,18 @@
             ],
             "allConnectors": [
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap1ID": 170103,
+                    "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 830435,
+                    "ap2ID": 793139
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 545706,
@@ -1244,6 +1256,12 @@
                     "ap2Name": "height",
                     "ap1ID": 946740,
                     "ap2ID": 539017
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "Geometry",
