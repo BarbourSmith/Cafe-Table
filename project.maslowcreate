@@ -1093,7 +1093,7 @@
             "atomType": "Molecule",
             "name": "Table Top",
             "x": 471,
-            "y": 55,
+            "y": 51,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1198,8 +1198,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 482,
-                    "y": 87,
+                    "x": 483,
+                    "y": 91,
                     "uniqueID": 501890,
                     "projectID": "187933479",
                     "ioValues": [
@@ -1213,7 +1213,7 @@
                         },
                         {
                             "name": "ScaleX",
-                            "ioValue": 0.3
+                            "ioValue": 0.5
                         },
                         {
                             "name": "ScaleY",
@@ -1383,6 +1383,12 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap1ID": 830435,
                     "ap2ID": 236969
                 },
                 {
@@ -1405,8 +1411,8 @@
                 },
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
                     "ap2ID": 501890
                 },
                 {
@@ -1426,12 +1432,6 @@
                     "ap2Name": "X",
                     "ap1ID": 170103,
                     "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "geometry",
@@ -1449,6 +1449,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
                     "ap2ID": 139488
                 },
                 {
@@ -1456,12 +1462,6 @@
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
                     "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "Geometry",
@@ -1613,7 +1613,7 @@
                     "atomType": "Molecule",
                     "name": "Table Top",
                     "x": 471,
-                    "y": 55,
+                    "y": 51,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
