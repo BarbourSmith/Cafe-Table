@@ -1092,17 +1092,17 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 480,
-            "y": 36,
+            "x": 477,
+            "y": 34,
             "uniqueID": 128495,
             "ioValues": [
                 {
-                    "name": "Length",
-                    "ioValue": 1000
-                },
-                {
                     "name": "Width",
                     "ioValue": 1200
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 1000
                 },
                 {
                     "name": "Wood Thickness",
@@ -1176,6 +1176,22 @@
                     "y": 56,
                     "uniqueID": 793139,
                     "projectID": 187933479
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 487,
+                    "y": 193,
+                    "uniqueID": 501890,
+                    "projectID": "187933479"
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 631,
+                    "y": 133,
+                    "uniqueID": 438153,
+                    "projectID": "187933479"
                 },
                 {
                     "atomType": "ShrinkWrap",
@@ -1269,6 +1285,7 @@
                     "ap1ID": 793139,
                     "ap2ID": 901786
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
@@ -1388,17 +1405,17 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 480,
-                    "y": 36,
+                    "x": 477,
+                    "y": 34,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
-                            "name": "Length",
-                            "ioValue": 1000
-                        },
-                        {
                             "name": "Width",
                             "ioValue": 1200
+                        },
+                        {
+                            "name": "Length",
+                            "ioValue": 1000
                         },
                         {
                             "name": "Wood Thickness",
