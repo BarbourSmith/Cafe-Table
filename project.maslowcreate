@@ -1092,8 +1092,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 480,
-            "y": 42,
+            "x": 479,
+            "y": 37,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1388,8 +1388,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 480,
-                    "y": 42,
+                    "x": 479,
+                    "y": 37,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
