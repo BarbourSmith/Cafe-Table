@@ -1149,7 +1149,7 @@
                     "ioValue": 10
                 },
                 {
-                    "name": "Thickness",
+                    "name": "Geometry",
                     "ioValue": 10
                 }
             ],
@@ -1188,17 +1188,12 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Corner Radius",
-                    "x": 226,
-                    "y": 300,
-                    "uniqueID": 396562,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": ""
-                        }
-                    ]
+                    "atomType": "Input",
+                    "name": "Geometry",
+                    "x": 28,
+                    "y": 233,
+                    "uniqueID": 811834,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Equation",
@@ -1219,31 +1214,10 @@
                     "currentEquation": 0
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 384,
-                    "y": 202,
-                    "uniqueID": 462568,
-                    "ioValues": [
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Thickness",
-                    "x": 368,
-                    "y": 289,
-                    "uniqueID": 295765,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 525,
-                    "y": 133,
+                    "x": 443,
+                    "y": 141,
                     "uniqueID": 588669,
                     "ioValues": [
                         {
@@ -1258,25 +1232,16 @@
                     "currentEquation": 0
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 528,
-                    "y": 233,
-                    "uniqueID": 915179,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 930,
-                    "y": 182,
+                    "x": 721,
+                    "y": 180,
                     "uniqueID": 509072,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": 10
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 20
@@ -1325,10 +1290,10 @@
                     "ap2ID": 588669
                 },
                 {
-                    "ap1Name": "number",
-                    "ap2Name": "radius",
-                    "ap1ID": 396562,
-                    "ap2ID": 462568
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 811834,
+                    "ap2ID": 509072
                 },
                 {
                     "ap1Name": "z",
@@ -1337,27 +1302,9 @@
                     "ap2ID": 509072
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 462568,
-                    "ap2ID": 915179
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 295765,
-                    "ap2ID": 915179
-                },
-                {
                     "ap1Name": "z",
                     "ap2Name": "yDist",
                     "ap1ID": 588669,
-                    "ap2ID": 509072
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 915179,
                     "ap2ID": 509072
                 },
                 {
@@ -1442,7 +1389,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "Thickness",
+                            "name": "Geometry",
                             "ioValue": 10
                         }
                     ]
