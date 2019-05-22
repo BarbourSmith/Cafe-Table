@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 332,
-            "y": 117,
+            "x": 329,
+            "y": 116,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -910,8 +910,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 246,
-            "y": 224,
+            "x": 241,
+            "y": 222,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -965,8 +965,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 332,
-                    "y": 117,
+                    "x": 329,
+                    "y": 116,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1368,8 +1368,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 246,
-                    "y": 224,
+                    "x": 241,
+                    "y": 222,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
