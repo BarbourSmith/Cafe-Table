@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 318,
-            "y": 114,
+            "x": 315,
+            "y": 120,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -169,7 +169,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -190,7 +190,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -211,7 +211,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -232,7 +232,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -10
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -911,7 +911,7 @@
             "atomType": "Molecule",
             "name": "Leg",
             "x": 267,
-            "y": 187,
+            "y": 188,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -965,8 +965,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 318,
-                    "y": 114,
+                    "x": 315,
+                    "y": 120,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1591,7 +1591,7 @@
                     "atomType": "Molecule",
                     "name": "Leg",
                     "x": 267,
-                    "y": 187,
+                    "y": 188,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
