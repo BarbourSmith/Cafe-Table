@@ -910,8 +910,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 267,
-            "y": 188,
+            "x": 271,
+            "y": 249,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1380,8 +1380,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 267,
-                    "y": 188,
+                    "x": 271,
+                    "y": 249,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1411,7 +1411,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -1544,7 +1544,12 @@
                     "ap1ID": 453938,
                     "ap2ID": 128495
                 },
-                null,
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "zDist",
+                    "ap1ID": 453938,
+                    "ap2ID": 772913
+                },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Width",
