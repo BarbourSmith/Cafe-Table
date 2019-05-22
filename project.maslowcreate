@@ -1413,18 +1413,10 @@
                     ]
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 615,
-                    "y": 23,
-                    "uniqueID": 132788,
-                    "ioValues": []
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 654,
-                    "y": 248,
+                    "x": 889,
+                    "y": 134,
                     "uniqueID": 901786,
                     "ioValues": [
                         {
@@ -1439,10 +1431,18 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 904,
+                    "y": 26,
+                    "uniqueID": 132788,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 838,
-                    "y": 72,
+                    "x": 1067,
+                    "y": 70,
                     "uniqueID": 347142,
                     "ioValues": [
                         {
@@ -1499,15 +1499,15 @@
                     "ap2ID": 901786
                 },
                 {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap1ID": 132788,
-                    "ap2ID": 347142
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 901786,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "zDist",
+                    "ap1ID": 132788,
                     "ap2ID": 347142
                 },
                 {
