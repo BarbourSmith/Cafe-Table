@@ -1092,7 +1092,7 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 468,
+            "x": 466,
             "y": 51,
             "uniqueID": 128495,
             "ioValues": [
@@ -1243,7 +1243,7 @@
                         },
                         {
                             "name": "ScaleY",
-                            "ioValue": -0.5
+                            "ioValue": -0.4
                         }
                     ]
                 },
@@ -1375,13 +1375,7 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 578161
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1393,7 +1387,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 501890
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap1ID": 830435,
+                    "ap2ID": 236969
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1405,13 +1405,7 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 578161
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1423,7 +1417,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 501890
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
+                    "ap2ID": 236969
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1447,13 +1447,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 578161
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "geometry",
@@ -1465,7 +1459,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 501890
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
+                    "ap2ID": 236969
                 },
                 {
                     "ap1Name": "geometry",
@@ -1775,7 +1775,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 468,
+                    "x": 466,
                     "y": 51,
                     "uniqueID": 128495,
                     "ioValues": [
