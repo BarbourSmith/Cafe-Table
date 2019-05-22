@@ -23,6 +23,3 @@
 ## Proportional Shift
 
 
-## Proportional Shift
-
-
