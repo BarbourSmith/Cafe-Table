@@ -54,10 +54,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 3
                         }
                     ]
                 },
@@ -287,6 +283,13 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1075,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Union",
                     "name": "Union",
                     "x": 1146,
@@ -314,13 +317,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -527,10 +523,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 3
                         }
                     ]
                 },
@@ -749,7 +741,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1009,7 +1001,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1141,10 +1133,6 @@
                         {
                             "name": "radius",
                             "ioValue": 200
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 6
                         }
                     ]
                 },
@@ -1365,7 +1353,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1375,13 +1363,7 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 501890
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1393,25 +1375,25 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap1ID": 830435,
                     "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
                     "ap2ID": 236969
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 501890
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1423,13 +1405,19 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
                     "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 972994
+                    "ap2ID": 236969
                 },
                 {
                     "ap1Name": "geometry",
@@ -1447,13 +1435,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 501890
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "geometry",
@@ -1465,13 +1447,19 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 539017,
                     "ap2ID": 793139
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 972994
+                    "ap2ID": 236969
                 },
                 {
                     "ap1Name": "Geometry",
@@ -1542,10 +1530,6 @@
                         {
                             "name": "radius",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -1638,7 +1622,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1927,7 +1911,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1075,
                     "y": 164,
                     "ioValues": []
                 }
@@ -2037,5 +2021,6 @@
             ],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 6
 }
