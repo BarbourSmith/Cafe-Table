@@ -9,11 +9,11 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 10
                 },
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 18
+                    "ioValue": 10
                 }
             ],
             "topLevel": false,
@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 600
+                            "ioValue": 10
                         },
                         {
                             "name": "y",
@@ -66,7 +66,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 600
+                            "ioValue": 10
                         },
                         {
                             "name": "y",
@@ -92,7 +92,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -105,7 +105,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -126,7 +126,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -147,7 +147,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -60
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -168,7 +168,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -60
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -283,6 +283,13 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Union",
                     "name": "Union",
                     "x": 1146,
@@ -310,13 +317,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -481,13 +481,13 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 304,
-            "y": 278,
+            "x": 300,
+            "y": 280,
             "uniqueID": 195812,
             "ioValues": [
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 18
+                    "ioValue": 10
                 }
             ],
             "topLevel": false,
@@ -509,7 +509,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -619,7 +619,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 18
+                            "ioValue": 10
                         },
                         {
                             "name": "y",
@@ -637,7 +637,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 36
+                            "ioValue": 0
                         },
                         {
                             "name": "y length",
@@ -684,7 +684,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -718,9 +718,16 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 1035,
+                    "x": 1021,
                     "y": 104,
                     "uniqueID": 220015,
                     "ioValues": [
@@ -737,13 +744,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -866,7 +866,7 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 234,
+            "x": 230,
             "y": 216,
             "uniqueID": 126979,
             "ioValues": [
@@ -906,7 +906,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 18
+                            "ioValue": 10
                         },
                         {
                             "name": "yDist",
@@ -931,7 +931,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 18
+                            "ioValue": 10
                         },
                         {
                             "name": "zDist",
@@ -948,24 +948,24 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 10
                         },
                         {
                             "name": "Wood Thickness",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 304,
-                    "y": 278,
+                    "x": 300,
+                    "y": 280,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
                             "name": "Wood Thickness",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1001,7 +1001,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 991,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1153,7 +1153,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 18
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1167,11 +1167,11 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Y",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "ScaleX",
@@ -1193,11 +1193,11 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Y",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "ScaleX",
@@ -1219,11 +1219,11 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Y",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "ScaleX",
@@ -1245,11 +1245,11 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Y",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "ScaleX",
@@ -1271,11 +1271,11 @@
                     "ioValues": [
                         {
                             "name": "X",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Y",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "ScaleX",
@@ -1330,6 +1330,13 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 991,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 1044,
@@ -1346,16 +1353,9 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 600
+                            "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1363,13 +1363,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 793139
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 501890
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1381,19 +1381,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 578161
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 793139
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1405,19 +1399,25 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
                     "ap2ID": 236969
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 578161
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "geometry",
@@ -1435,13 +1435,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 793139
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 501890
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "geometry",
@@ -1453,13 +1453,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 578161
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "Geometry",
@@ -1572,7 +1572,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 234,
+                    "x": 230,
                     "y": 216,
                     "uniqueID": 126979,
                     "ioValues": [
@@ -1748,7 +1748,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 991,
                     "y": 164,
                     "ioValues": []
                 }
