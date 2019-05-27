@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 200
+                    "ioValue": 600
                 },
                 {
                     "name": "Wood Thickness",
@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 200
+                            "ioValue": 600
                         },
                         {
                             "name": "y",
@@ -66,7 +66,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 200
+                            "ioValue": 600
                         },
                         {
                             "name": "y",
@@ -105,7 +105,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -200
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -126,7 +126,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -200
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -147,7 +147,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -20
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -168,7 +168,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -20
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -876,7 +876,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 200
+                    "ioValue": 600
                 }
             ],
             "topLevel": false,
@@ -948,7 +948,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 200
+                            "ioValue": 600
                         },
                         {
                             "name": "Wood Thickness",
@@ -1102,7 +1102,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 200
+                    "ioValue": 600
                 }
             ],
             "topLevel": false,
@@ -1353,7 +1353,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 200
+                            "ioValue": 600
                         }
                     ]
                 }
@@ -1524,7 +1524,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 200
+                    "ioValue": 600
                 },
                 {
                     "name": "Width",
@@ -1582,7 +1582,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 200
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -1607,7 +1607,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 200
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -1628,7 +1628,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 200
+                            "ioValue": 600
                         }
                     ]
                 },
