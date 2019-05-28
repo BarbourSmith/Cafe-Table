@@ -105,7 +105,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -126,7 +126,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -600
                         },
                         {
                             "name": "yDist",
@@ -147,7 +147,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -168,7 +168,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -60
                         },
                         {
                             "name": "yDist",
@@ -637,7 +637,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 0
+                            "ioValue": 36
                         },
                         {
                             "name": "y length",
@@ -1375,13 +1375,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 578161
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1405,13 +1405,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 578161
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1447,13 +1447,13 @@
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 578161
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
                     "ap1ID": 539017,
-                    "ap2ID": 972994
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "geometry",
