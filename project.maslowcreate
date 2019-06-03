@@ -1292,6 +1292,14 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 742,
+                    "y": 41,
+                    "uniqueID": 132788,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 736,
@@ -1326,25 +1334,10 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 904,
-                    "y": 26,
-                    "uniqueID": 132788,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1002,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1032,
-                    "y": 70,
+                    "x": 898,
+                    "y": 97,
                     "uniqueID": 347142,
                     "ioValues": [
                         {
@@ -1360,6 +1353,13 @@
                             "ioValue": 600
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1002,
+                    "y": 164,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1416,6 +1416,12 @@
                     "ap2Name": "X",
                     "ap1ID": 170103,
                     "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap1ID": 170103,
+                    "ap2ID": 972994
                 },
                 {
                     "ap1Name": "geometry",
@@ -1478,9 +1484,21 @@
                     "ap2ID": 696987
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 639989",
+                    "ap1ID": 972994,
+                    "ap2ID": 696987
+                },
+                {
                     "ap1Name": "number or geometry",
                     "ap2Name": "zDist",
                     "ap1ID": 132788,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 696987,
                     "ap2ID": 347142
                 },
                 {
