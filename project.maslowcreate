@@ -223,13 +223,6 @@
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 831,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 932,
@@ -288,6 +281,13 @@
                         }
                     ],
                     "closedSelection": 0
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1002,
+                    "y": 164,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Union",
@@ -710,18 +710,18 @@
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 831,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 842,
                     "y": 182,
                     "uniqueID": 798958,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1002,
+                    "y": 164,
                     "ioValues": []
                 },
                 {
@@ -1001,7 +1001,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 831,
+                    "x": 1002,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1084,8 +1084,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 332,
-            "y": 57,
+            "x": 336,
+            "y": 60,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1137,27 +1137,6 @@
                     ]
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 89,
-                    "y": 304,
-                    "uniqueID": 946740,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 267,
-                    "y": 280,
-                    "uniqueID": 539017,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 18
-                        }
-                    ]
-                },
-                {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
                     "x": 408,
@@ -1180,10 +1159,6 @@
                         {
                             "name": "ScaleY",
                             "ioValue": 0.5
-                        },
-                        {
-                            "name": "Geometry",
-                            "ioValue": 10
                         }
                     ]
                 },
@@ -1266,6 +1241,10 @@
                         {
                             "name": "ScaleY",
                             "ioValue": -0.5
+                        },
+                        {
+                            "name": "Geometry",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1292,49 +1271,20 @@
                         {
                             "name": "ScaleY",
                             "ioValue": 0
+                        },
+                        {
+                            "name": "Geometry",
+                            "ioValue": 10
                         }
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 831,
-                    "y": 164,
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 738,
+                    "y": 63,
+                    "uniqueID": 946740,
                     "ioValues": []
-                },
-                {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 880,
-                    "y": 139,
-                    "uniqueID": 901786,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 196559",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 536821",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 578384",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 816532",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 537998",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 316541",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
                 },
                 {
                     "atomType": "Input",
@@ -1345,9 +1295,16 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1002,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1044,
+                    "x": 1032,
                     "y": 70,
                     "uniqueID": 347142,
                     "ioValues": [
@@ -1371,13 +1328,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 578161
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap1ID": 830435,
-                    "ap2ID": 501890
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1389,13 +1346,13 @@
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 578161
+                    "ap2ID": 501890
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "X",
                     "ap1ID": 170103,
-                    "ap2ID": 501890
+                    "ap2ID": 578161
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1405,57 +1362,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "Geometry",
                     "ap1ID": 545706,
-                    "ap2ID": 539017
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 946740,
-                    "ap2ID": 539017
+                    "ap2ID": 793139
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
+                    "ap1ID": 545706,
                     "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 539017,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 536821",
-                    "ap1ID": 501890,
-                    "ap2ID": 901786
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 578384",
-                    "ap1ID": 578161,
-                    "ap2ID": 901786
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 196559",
-                    "ap1ID": 972994,
-                    "ap2ID": 901786
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 901786,
-                    "ap2ID": 347142
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1549,8 +1464,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 332,
-                    "y": 57,
+                    "x": 336,
+                    "y": 60,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1708,8 +1623,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1026.4381384790013,
-                    "y": 159.70261066969354,
+                    "x": 1002,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
