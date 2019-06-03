@@ -1139,8 +1139,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 408,
-                    "y": 43,
+                    "x": 334,
+                    "y": 38,
                     "uniqueID": 793139,
                     "projectID": 187933479,
                     "ioValues": [
@@ -1165,8 +1165,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 480,
-                    "y": 94,
+                    "x": 413,
+                    "y": 95,
                     "uniqueID": 501890,
                     "projectID": "187933479",
                     "ioValues": [
@@ -1191,8 +1191,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 508,
-                    "y": 154,
+                    "x": 477,
+                    "y": 150,
                     "uniqueID": 236969,
                     "projectID": "187933479",
                     "ioValues": [
@@ -1211,18 +1211,14 @@
                         {
                             "name": "ScaleY",
                             "ioValue": -0.5
-                        },
-                        {
-                            "name": "Geometry",
-                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 576,
-                    "y": 207,
+                    "x": 544,
+                    "y": 209,
                     "uniqueID": 578161,
                     "projectID": "187933479",
                     "ioValues": [
@@ -1241,18 +1237,14 @@
                         {
                             "name": "ScaleY",
                             "ioValue": -0.5
-                        },
-                        {
-                            "name": "Geometry",
-                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Proportional Shift",
-                    "x": 684,
-                    "y": 269,
+                    "x": 616,
+                    "y": 272,
                     "uniqueID": 972994,
                     "projectID": "187933479",
                     "ioValues": [
@@ -1271,20 +1263,50 @@
                         {
                             "name": "ScaleY",
                             "ioValue": 0
-                        },
-                        {
-                            "name": "Geometry",
-                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
-                    "x": 738,
-                    "y": 63,
+                    "x": 720,
+                    "y": 50,
                     "uniqueID": 946740,
                     "ioValues": []
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 736,
+                    "y": 178,
+                    "uniqueID": 696987,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 565092",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 381831",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 940281",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 500295",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 867741",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 639989",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
                 },
                 {
                     "atomType": "Input",
@@ -1371,6 +1393,54 @@
                     "ap2Name": "Geometry",
                     "ap1ID": 545706,
                     "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 545706,
+                    "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 545706,
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 545706,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 867741",
+                    "ap1ID": 793139,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 500295",
+                    "ap1ID": 501890,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 940281",
+                    "ap1ID": 236969,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 381831",
+                    "ap1ID": 578161,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 565092",
+                    "ap1ID": 972994,
+                    "ap2ID": 696987
                 },
                 {
                     "ap1Name": "number or geometry",
