@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 343,
-            "y": 127,
+            "x": 344,
+            "y": 128,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -283,13 +283,6 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1002,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Union",
                     "name": "Union",
                     "x": 1146,
@@ -317,6 +310,13 @@
                             "ioValue": 0
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -481,8 +481,8 @@
         {
             "atomType": "Molecule",
             "name": "Top Triangle",
-            "x": 296,
-            "y": 277,
+            "x": 293,
+            "y": 280,
             "uniqueID": 195812,
             "ioValues": [
                 {
@@ -718,13 +718,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1002,
-                    "y": 164,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 1021,
@@ -744,6 +737,13 @@
                             "ioValue": 0
                         }
                     ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -866,8 +866,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 231,
-            "y": 219,
+            "x": 232,
+            "y": 213,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -900,8 +900,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 331,
-                    "y": 49,
+                    "x": 330,
+                    "y": 48,
                     "uniqueID": 916284,
                     "ioValues": [
                         {
@@ -919,10 +919,27 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Long Part Of Leg",
+                    "x": 344,
+                    "y": 128,
+                    "uniqueID": 592212,
+                    "ioValues": [
+                        {
+                            "name": "Height",
+                            "ioValue": 600
+                        },
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 312,
-                    "y": 187,
+                    "x": 314,
+                    "y": 195,
                     "uniqueID": 660965,
                     "ioValues": [
                         {
@@ -941,26 +958,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Long Part Of Leg",
-                    "x": 343,
-                    "y": 127,
-                    "uniqueID": 592212,
-                    "ioValues": [
-                        {
-                            "name": "Height",
-                            "ioValue": 600
-                        },
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 296,
-                    "y": 277,
+                    "x": 293,
+                    "y": 280,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -972,8 +972,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 741,
-                    "y": 126,
+                    "x": 736,
+                    "y": 124,
                     "uniqueID": 404408,
                     "ioValues": [
                         {
@@ -1001,7 +1001,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1002,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1044,12 +1044,6 @@
                     "ap2ID": 404408
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 342879",
-                    "ap1ID": 660965,
-                    "ap2ID": 404408
-                },
-                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 592212,
@@ -1059,6 +1053,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 969575",
                     "ap1ID": 592212,
+                    "ap2ID": 404408
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 342879",
+                    "ap1ID": 660965,
                     "ap2ID": 404408
                 },
                 {
@@ -1084,8 +1084,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 342,
-            "y": 53,
+            "x": 347,
+            "y": 54,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1353,7 +1353,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1002,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1572,8 +1572,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 231,
-                    "y": 219,
+                    "x": 232,
+                    "y": 213,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1589,8 +1589,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 342,
-                    "y": 53,
+                    "x": 347,
+                    "y": 54,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1614,8 +1614,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 393,
-                    "y": 197,
+                    "x": 388,
+                    "y": 202,
                     "uniqueID": 772913,
                     "ioValues": [
                         {
@@ -1657,7 +1657,7 @@
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 507,
-                    "y": 136,
+                    "y": 146,
                     "uniqueID": 614542,
                     "ioValues": [
                         {
@@ -1677,8 +1677,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 516,
-                    "y": 254,
+                    "x": 514,
+                    "y": 257,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
@@ -1719,8 +1719,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 870,
-                    "y": 145,
+                    "x": 873,
+                    "y": 146,
                     "uniqueID": 736797,
                     "ioValues": [
                         {
@@ -1748,7 +1748,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1002,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
