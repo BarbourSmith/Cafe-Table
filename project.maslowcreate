@@ -1635,8 +1635,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 501,
-                    "y": 49,
+                    "x": 506,
+                    "y": 45,
                     "uniqueID": 394578,
                     "ioValues": [
                         {
@@ -1698,7 +1698,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 713,
+                    "x": 718,
                     "y": 66,
                     "uniqueID": 121135,
                     "ioValues": [
@@ -1719,8 +1719,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 873,
-                    "y": 146,
+                    "x": 874,
+                    "y": 151,
                     "uniqueID": 736797,
                     "ioValues": [
                         {
