@@ -866,8 +866,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 232,
-            "y": 213,
+            "x": 229,
+            "y": 217,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1084,8 +1084,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 347,
-            "y": 54,
+            "x": 350,
+            "y": 50,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1572,8 +1572,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 232,
-                    "y": 213,
+                    "x": 229,
+                    "y": 217,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1589,8 +1589,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 347,
-                    "y": 54,
+                    "x": 350,
+                    "y": 50,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1614,7 +1614,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 388,
+                    "x": 390,
                     "y": 202,
                     "uniqueID": 772913,
                     "ioValues": [
@@ -1635,8 +1635,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 506,
-                    "y": 45,
+                    "x": 509,
+                    "y": 50,
                     "uniqueID": 394578,
                     "ioValues": [
                         {
@@ -1656,8 +1656,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 507,
-                    "y": 146,
+                    "x": 509,
+                    "y": 168,
                     "uniqueID": 614542,
                     "ioValues": [
                         {
@@ -1677,8 +1677,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 514,
-                    "y": 257,
+                    "x": 529,
+                    "y": 258,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
@@ -1699,7 +1699,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 718,
-                    "y": 66,
+                    "y": 68,
                     "uniqueID": 121135,
                     "ioValues": [
                         {
@@ -1720,7 +1720,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 874,
-                    "y": 151,
+                    "y": 150,
                     "uniqueID": 736797,
                     "ioValues": [
                         {
