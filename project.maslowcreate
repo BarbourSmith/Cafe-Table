@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 344,
-            "y": 128,
+            "x": 346,
+            "y": 123,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -314,8 +314,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1229,
-                    "y": 182.5,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -741,8 +741,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1229,
-                    "y": 182.5,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -866,8 +866,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 229,
-            "y": 217,
+            "x": 230,
+            "y": 220,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -921,8 +921,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 344,
-                    "y": 128,
+                    "x": 346,
+                    "y": 123,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1001,8 +1001,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1229,
-                    "y": 182.5,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -1353,8 +1353,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1229,
-                    "y": 182.5,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -1572,8 +1572,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 229,
-                    "y": 217,
+                    "x": 230,
+                    "y": 220,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1748,8 +1748,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1229,
-                    "y": 182.5,
+                    "x": 1316,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
