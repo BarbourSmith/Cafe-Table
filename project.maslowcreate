@@ -1073,7 +1073,7 @@
             "atomType": "Molecule",
             "name": "Table Top",
             "x": 350,
-            "y": 50,
+            "y": 54,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1120,7 +1120,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 400
                         }
                     ]
                 },
@@ -1578,7 +1578,7 @@
                     "atomType": "Molecule",
                     "name": "Table Top",
                     "x": 350,
-                    "y": 50,
+                    "y": 54,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1726,6 +1726,10 @@
                         {
                             "name": "3D shape 683656",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 320709",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1826,6 +1830,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 890032",
                     "ap1ID": 443781,
+                    "ap2ID": 736797
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 683656",
+                    "ap1ID": 121135,
                     "ap2ID": 736797
                 },
                 {
