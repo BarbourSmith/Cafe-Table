@@ -3,3 +3,5 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Total: |0|$0.00| |
+
+ 3xCOG MSRP: $0.00
