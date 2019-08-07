@@ -1078,19 +1078,19 @@
             "ioValues": [
                 {
                     "name": "Width",
-                    "ioValue": 1200
+                    "ioValue": 10
                 },
                 {
                     "name": "Length",
-                    "ioValue": 1000
+                    "ioValue": 10
                 },
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 18
+                    "ioValue": 10
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 10
                 }
             ],
             "topLevel": false,
@@ -1142,136 +1142,6 @@
                         {
                             "name": "height",
                             "ioValue": 18
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 334,
-                    "y": 38,
-                    "uniqueID": 793139,
-                    "projectID": 187933479,
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": 0.1
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 413,
-                    "y": 95,
-                    "uniqueID": 501890,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0.4
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 477,
-                    "y": 150,
-                    "uniqueID": 236969,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": -0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 544,
-                    "y": 209,
-                    "uniqueID": 578161,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.1
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": -0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 616,
-                    "y": 272,
-                    "uniqueID": 972994,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": 0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0
                         }
                     ]
                 },
@@ -1346,157 +1216,7 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap1ID": 830435,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap1ID": 170103,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 545706,
-                    "ap2ID": 496035
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap1ID": 946740,
-                    "ap2ID": 496035
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 496035,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 496035,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 496035,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 496035,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap1ID": 496035,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 867741",
-                    "ap1ID": 793139,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 500295",
-                    "ap1ID": 501890,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 940281",
-                    "ap1ID": 236969,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 381831",
-                    "ap1ID": 578161,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 639989",
-                    "ap1ID": 972994,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap1ID": 132788,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 696987,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 347142
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         },
         {
@@ -1508,19 +1228,19 @@
             "ioValues": [
                 {
                     "name": "Wood Thickness",
-                    "ioValue": 18
+                    "ioValue": 10
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 10
                 },
                 {
                     "name": "Width",
-                    "ioValue": 1200
+                    "ioValue": 10
                 },
                 {
                     "name": "Length",
-                    "ioValue": 1000
+                    "ioValue": 10
                 }
             ],
             "topLevel": true,
@@ -1583,19 +1303,19 @@
                     "ioValues": [
                         {
                             "name": "Width",
-                            "ioValue": 1200
+                            "ioValue": 10
                         },
                         {
                             "name": "Length",
-                            "ioValue": 1000
+                            "ioValue": 10
                         },
                         {
                             "name": "Wood Thickness",
-                            "ioValue": 18
+                            "ioValue": 10
                         },
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1741,109 +1461,7 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Wood Thickness",
-                    "ap1ID": 185762,
-                    "ap2ID": 126979
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Wood Thickness",
-                    "ap1ID": 185762,
-                    "ap2ID": 128495
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Height",
-                    "ap1ID": 453938,
-                    "ap2ID": 126979
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Height",
-                    "ap1ID": 453938,
-                    "ap2ID": 128495
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap1ID": 453938,
-                    "ap2ID": 772913
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Width",
-                    "ap1ID": 969106,
-                    "ap2ID": 128495
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Length",
-                    "ap1ID": 120940,
-                    "ap2ID": 128495
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 126979,
-                    "ap2ID": 772913
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 128495,
-                    "ap2ID": 394578
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 772913,
-                    "ap2ID": 614542
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 772913,
-                    "ap2ID": 443781
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 267115",
-                    "ap1ID": 772913,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 394578,
-                    "ap2ID": 121135
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 208582",
-                    "ap1ID": 614542,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 890032",
-                    "ap1ID": 443781,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 683656",
-                    "ap1ID": 121135,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 736797
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         }
     ],

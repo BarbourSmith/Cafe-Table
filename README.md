@@ -19,18 +19,3 @@
 ## Table Top
 
 
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
