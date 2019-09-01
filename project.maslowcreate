@@ -223,7 +223,7 @@
                     "ioValues": [
                         {
                             "name": "2D shape 330883",
-                            "ioValue": ""
+                            "ioValue": 10
                         },
                         {
                             "name": "2D shape 723151",
@@ -240,10 +240,6 @@
                         {
                             "name": "2D shape 180774",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 330883",
-                            "ioValue": 10
                         }
                     ],
                     "closedSelection": 0
@@ -257,7 +253,7 @@
                     "ioValues": [
                         {
                             "name": "3D shape 581076",
-                            "ioValue": ""
+                            "ioValue": 10
                         },
                         {
                             "name": "2D shape 732053",
@@ -273,10 +269,6 @@
                         },
                         {
                             "name": "2D shape 314953",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 581076",
                             "ioValue": 10
                         }
                     ],
@@ -633,7 +625,7 @@
                     "ioValues": [
                         {
                             "name": "2D shape 674504",
-                            "ioValue": ""
+                            "ioValue": 10
                         },
                         {
                             "name": "2D shape 817032",
@@ -649,10 +641,6 @@
                         },
                         {
                             "name": "2D shape 594439",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 674504",
                             "ioValue": 10
                         }
                     ],
@@ -978,7 +966,7 @@
                     "ioValues": [
                         {
                             "name": "3D shape 451361",
-                            "ioValue": ""
+                            "ioValue": 10
                         },
                         {
                             "name": "3D shape 822275",
@@ -994,10 +982,6 @@
                         },
                         {
                             "name": "3D shape 413438",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 451361",
                             "ioValue": 10
                         }
                     ],
@@ -1307,10 +1291,6 @@
                     "y": 178,
                     "uniqueID": 696987,
                     "ioValues": [
-                        {
-                            "name": "3D shape 565092",
-                            "ioValue": ""
-                        },
                         {
                             "name": "3D shape 565092",
                             "ioValue": 10
@@ -1734,7 +1714,7 @@
                     "ioValues": [
                         {
                             "name": "3D shape 320709",
-                            "ioValue": ""
+                            "ioValue": 10
                         },
                         {
                             "name": "3D shape 890032",
@@ -1750,10 +1730,6 @@
                         },
                         {
                             "name": "3D shape 683656",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 320709",
                             "ioValue": 10
                         }
                     ],
