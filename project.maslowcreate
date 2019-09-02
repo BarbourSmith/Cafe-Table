@@ -854,8 +854,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 230,
-            "y": 222,
+            "x": 216,
+            "y": 241,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1073,8 +1073,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 350,
-            "y": 54,
+            "x": 321,
+            "y": 51,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1561,8 +1561,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 230,
-                    "y": 222,
+                    "x": 216,
+                    "y": 241,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1578,8 +1578,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 350,
-                    "y": 54,
+                    "x": 321,
+                    "y": 51,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1603,8 +1603,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 390,
-                    "y": 202,
+                    "x": 371,
+                    "y": 188,
                     "uniqueID": 772913,
                     "ioValues": [
                         {
