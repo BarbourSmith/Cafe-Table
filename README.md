@@ -7,15 +7,6 @@
 ## Cafe Table
 
 
-## Leg
-
-
-## Long Part Of Leg
-
-
-## Top Triangle
-
-
 ## Table Top
 
 
@@ -32,5 +23,14 @@
 
 
 ## Proportional Shift
+
+
+## Leg
+
+
+## Long Part Of Leg
+
+
+## Top Triangle
 
 
