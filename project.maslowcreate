@@ -437,8 +437,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Part Of Leg",
-            "x": 345,
-            "y": 119,
+            "x": 343,
+            "y": 111,
             "uniqueID": 592212,
             "ioValues": [
                 {
@@ -717,12 +717,30 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 1146,
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 1145,
                     "y": 82,
-                    "uniqueID": 459080,
-                    "ioValues": []
+                    "uniqueID": 496431,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 363863",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 717837",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 838234",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 363863",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Rotate",
@@ -888,20 +906,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "3D shape 838234",
                     "ap1ID": 673389,
-                    "ap2ID": 459080
+                    "ap2ID": 496431
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "3D shape 717837",
                     "ap1ID": 588801,
-                    "ap2ID": 459080
+                    "ap2ID": 496431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 459080,
+                    "ap1ID": 496431,
                     "ap2ID": 143776
                 },
                 {
@@ -1300,8 +1318,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 216,
-            "y": 243,
+            "x": 224,
+            "y": 247,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1355,8 +1373,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Part Of Leg",
-                    "x": 345,
-                    "y": 119,
+                    "x": 343,
+                    "y": 111,
                     "uniqueID": 592212,
                     "ioValues": [
                         {
@@ -1606,8 +1624,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 216,
-                    "y": 243,
+                    "x": 224,
+                    "y": 247,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
