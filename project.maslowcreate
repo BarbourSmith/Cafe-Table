@@ -276,7 +276,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 954,
                     "y": 164,
                     "ioValues": []
                 }
@@ -683,6 +683,13 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 954,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 992,
@@ -728,15 +735,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 363863",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 717837",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 838234",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 363863",
                             "ioValue": 10
                         }
                     ],
@@ -762,13 +769,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1170,6 +1170,13 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 954,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 1021,
@@ -1189,13 +1196,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1458,7 +1458,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 954,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1662,6 +1662,27 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
+                    "x": 347,
+                    "y": 259,
+                    "uniqueID": 515321,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
                     "x": 509,
                     "y": 50,
                     "uniqueID": 394578,
@@ -1702,10 +1723,28 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Pattern Rotate",
+                    "x": 566,
+                    "y": 257,
+                    "uniqueID": 490696,
+                    "projectID": "209943116",
+                    "ioValues": [
+                        {
+                            "name": "Radius",
+                            "ioValue": 500
+                        },
+                        {
+                            "name": "Number",
+                            "ioValue": 3
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 575,
-                    "y": 262,
+                    "x": 654,
+                    "y": 189,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
@@ -1780,7 +1819,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 954,
                     "y": 164,
                     "ioValues": []
                 }
@@ -1841,6 +1880,12 @@
                     "ap2ID": 772913
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 126979,
+                    "ap2ID": 515321
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 772913,
@@ -1857,6 +1902,12 @@
                     "ap2Name": "3D shape 267115",
                     "ap1ID": 772913,
                     "ap2ID": 736797
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 515321,
+                    "ap2ID": 490696
                 },
                 {
                     "ap1Name": "geometry",
