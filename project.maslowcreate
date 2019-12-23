@@ -282,15 +282,15 @@
                             "ioValue": 10
                         },
                         {
+                            "name": "3D shape 581076",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "2D shape 929068",
                             "ioValue": 10
                         },
                         {
                             "name": "2D shape 314953",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 581076",
                             "ioValue": 10
                         }
                     ],
@@ -687,6 +687,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "2D shape 674504",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "2D shape 817032",
                             "ioValue": 10
                         },
@@ -700,10 +704,6 @@
                         },
                         {
                             "name": "2D shape 594439",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "2D shape 674504",
                             "ioValue": 10
                         }
                     ],
@@ -1169,6 +1169,10 @@
             "uniqueID": 128495,
             "ioValues": [
                 {
+                    "name": "Height",
+                    "ioValue": 600
+                },
+                {
                     "name": "Width",
                     "ioValue": 1200
                 },
@@ -1179,10 +1183,6 @@
                 {
                     "name": "Wood Thickness",
                     "ioValue": 18
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 600
                 }
             ],
             "topLevel": false,
@@ -1703,6 +1703,10 @@
                     "uniqueID": 128495,
                     "ioValues": [
                         {
+                            "name": "Height",
+                            "ioValue": 600
+                        },
+                        {
                             "name": "Width",
                             "ioValue": 1200
                         },
@@ -1713,10 +1717,6 @@
                         {
                             "name": "Wood Thickness",
                             "ioValue": 18
-                        },
-                        {
-                            "name": "Height",
-                            "ioValue": 600
                         }
                     ]
                 },
