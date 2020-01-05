@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Wood Thickness",
@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ],
                     "currentEquation": "H*-1"
@@ -57,7 +57,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ],
                     "currentEquation": "-.15*H"
@@ -97,7 +97,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": -300
                         },
                         {
                             "name": "yDist",
@@ -118,7 +118,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": -300
                         },
                         {
                             "name": "yDist",
@@ -139,7 +139,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -90
+                            "ioValue": -45
                         },
                         {
                             "name": "yDist",
@@ -160,7 +160,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -90
+                            "ioValue": -45
                         },
                         {
                             "name": "yDist",
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1669,
+                    "y": 321.5,
                     "ioValues": []
                 }
             ],
@@ -777,8 +777,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1669,
+                    "y": 321.5,
                     "ioValues": []
                 }
             ],
@@ -931,7 +931,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 }
             ],
             "topLevel": false,
@@ -982,7 +982,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         },
                         {
                             "name": "Wood Thickness",
@@ -1061,8 +1061,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1669,
+                    "y": 321.5,
                     "ioValues": []
                 }
             ],
@@ -1169,7 +1169,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Width",
@@ -1429,15 +1429,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1669,
+                    "y": 321.5,
                     "ioValues": []
                 }
             ],
@@ -1632,7 +1632,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Width",
@@ -1690,7 +1690,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -1703,7 +1703,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         },
                         {
                             "name": "Width",
@@ -1736,7 +1736,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -1853,8 +1853,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1669,
+                    "y": 321.5,
                     "ioValues": []
                 }
             ],
