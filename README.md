@@ -16,6 +16,9 @@
 ## Top Triangle
 
 
+This text is inside the leg
+
+
 ## Table Top
 
 
