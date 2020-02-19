@@ -1785,8 +1785,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 625,
-                    "y": 239,
+                    "x": 628,
+                    "y": 242,
                     "uniqueID": 443781,
                     "ioValues": [
                         {
