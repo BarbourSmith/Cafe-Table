@@ -4,12 +4,3 @@
 
 ![](/project.svg)
 
-## Cafe Table
-
-
-## Leg
-
-
-This text is inside the leg
-
-

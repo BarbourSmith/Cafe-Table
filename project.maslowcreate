@@ -1059,15 +1059,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Readme",
-                    "name": "README",
-                    "x": 836,
-                    "y": 206,
-                    "uniqueID": 466570,
-                    "ioValues": [],
-                    "readmeText": "This text is inside the leg"
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
