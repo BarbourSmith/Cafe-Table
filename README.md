@@ -10,30 +10,6 @@
 ## Leg
 
 
-## Long Part Of Leg
-
-
-## Top Triangle
-
-
 This text is inside the leg
-
-
-## Table Top
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
-
-
-## Proportional Shift
 
 
