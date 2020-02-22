@@ -19,6 +19,13 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Input",
                     "name": "Height",
                     "x": 30,
@@ -320,13 +327,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -528,6 +528,13 @@
             ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
@@ -773,13 +780,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -921,8 +921,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 206,
-            "y": 234,
+            "x": 0.3111273792093704,
+            "y": 0.24521072796934865,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -936,6 +936,13 @@
             ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
@@ -1057,13 +1064,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1163,8 +1163,8 @@
         {
             "atomType": "Molecule",
             "name": "Table Top",
-            "x": 321,
-            "y": 51,
+            "x": 0.31551976573938506,
+            "y": 0.5095785440613027,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -1186,6 +1186,13 @@
             ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Input",
                     "name": "Height",
@@ -1432,13 +1439,6 @@
                             "ioValue": 600
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1648,40 +1648,16 @@
                 {
                     "atomType": "Input",
                     "name": "Wood Thickness",
-                    "x": 30,
-                    "y": 67,
+                    "x": 0.04904831625183016,
+                    "y": 0.28735632183908044,
                     "uniqueID": 185762,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 30,
-                    "y": 125,
-                    "uniqueID": 453938,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Width",
-                    "x": 30,
-                    "y": 168,
-                    "uniqueID": 969106,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Length",
-                    "x": 30,
-                    "y": 220,
-                    "uniqueID": 120940,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Leg",
-                    "x": 206,
-                    "y": 234,
+                    "x": 0.3111273792093704,
+                    "y": 0.24521072796934865,
                     "uniqueID": 126979,
                     "ioValues": [
                         {
@@ -1695,10 +1671,18 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 0.036603221083455345,
+                    "y": 0.5134099616858238,
+                    "uniqueID": 453938,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 321,
-                    "y": 51,
+                    "x": 0.31551976573938506,
+                    "y": 0.5095785440613027,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1720,31 +1704,10 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 371,
-                    "y": 188,
-                    "uniqueID": 772913,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -500
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 600
-                        }
-                    ]
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 509,
-                    "y": 50,
+                    "x": 0.45241581259150804,
+                    "y": 0.4597701149425288,
                     "uniqueID": 394578,
                     "ioValues": [
                         {
@@ -1762,52 +1725,10 @@
                     ]
                 },
                 {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 569,
-                    "y": 127,
-                    "uniqueID": 614542,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": -120
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 628,
-                    "y": 242,
-                    "uniqueID": 443781,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 120
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 718,
-                    "y": 68,
+                    "x": 0.6083455344070279,
+                    "y": 0.367816091954023,
                     "uniqueID": 121135,
                     "ioValues": [
                         {
@@ -1825,10 +1746,47 @@
                     ]
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 0.029282576866764276,
+                    "y": 0.7318007662835249,
+                    "uniqueID": 969106,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.5651537335285505,
+                    "y": 0.6551724137931034,
+                    "uniqueID": 614542,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": -120
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 0.02489019033674963,
+                    "y": 0.8888888888888888,
+                    "uniqueID": 120940,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 874,
-                    "y": 150,
+                    "x": 0.7840409956076135,
+                    "y": 0.49808429118773945,
                     "uniqueID": 736797,
                     "ioValues": [
                         {
@@ -1851,10 +1809,59 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.45680819912152265,
+                    "y": 0.9042145593869733,
+                    "uniqueID": 772913,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -500
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 600
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.6442166910688141,
+                    "y": 0.8199233716475096,
+                    "uniqueID": 443781,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 120
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9809663250366032,
+                    "y": 0.40229885057471265,
+                    "ioValues": []
+                },
+                {
                     "atomType": "CutLayout",
                     "name": "Cut Layout",
-                    "x": 1006,
-                    "y": 253,
+                    "x": 0.8572474377745242,
+                    "y": 0.8007662835249042,
                     "uniqueID": 989110,
                     "ioValues": [
                         {
@@ -1870,13 +1877,6 @@
                             "ioValue": 50
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1893,6 +1893,13 @@
                     "ap2Primary": false,
                     "ap1ID": 185762,
                     "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 126979,
+                    "ap2ID": 772913
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1916,11 +1923,39 @@
                     "ap2ID": 772913
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 128495,
+                    "ap2ID": 394578
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 394578,
+                    "ap2ID": 121135
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 683656",
+                    "ap2Primary": false,
+                    "ap1ID": 121135,
+                    "ap2ID": 736797
+                },
+                {
                     "ap1Name": "number or geometry",
                     "ap2Name": "Width",
                     "ap2Primary": false,
                     "ap1ID": 969106,
                     "ap2ID": 128495
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 208582",
+                    "ap2Primary": false,
+                    "ap1ID": 614542,
+                    "ap2ID": 736797
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1930,18 +1965,17 @@
                     "ap2ID": 128495
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 126979,
-                    "ap2ID": 772913
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 736797
                 },
                 {
-                    "ap1Name": "Geometry",
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 128495,
-                    "ap2ID": 394578
+                    "ap2Primary": false,
+                    "ap1ID": 736797,
+                    "ap2ID": 989110
                 },
                 {
                     "ap1Name": "geometry",
@@ -1966,44 +2000,10 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 394578,
-                    "ap2ID": 121135
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 208582",
-                    "ap2Primary": false,
-                    "ap1ID": 614542,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 890032",
                     "ap2Primary": false,
                     "ap1ID": 443781,
                     "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 683656",
-                    "ap2Primary": false,
-                    "ap1ID": 121135,
-                    "ap2ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 736797
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 736797,
-                    "ap2ID": 989110
                 }
             ],
             "fileTypeVersion": 1
