@@ -1187,41 +1187,18 @@
             "topLevel": false,
             "allAtoms": [
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 30,
-                    "y": 41,
-                    "uniqueID": 132788,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Input",
                     "name": "Width",
-                    "x": 30,
-                    "y": 96,
+                    "x": 0.09297218155197658,
+                    "y": 0.26053639846743293,
                     "uniqueID": 830435,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Length",
-                    "x": 30,
-                    "y": 159,
-                    "uniqueID": 170103,
                     "ioValues": []
                 },
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 90,
-                    "y": 222,
+                    "x": 0.27306002928257683,
+                    "y": 0.24137931034482757,
                     "uniqueID": 545706,
                     "ioValues": [
                         {
@@ -1232,17 +1209,17 @@
                 },
                 {
                     "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 30,
-                    "y": 286,
-                    "uniqueID": 946740,
+                    "name": "Height",
+                    "x": 0.09443631039531479,
+                    "y": 0.5019157088122606,
+                    "uniqueID": 132788,
                     "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 199,
-                    "y": 243,
+                    "x": 0.46559297218155193,
+                    "y": 0.2681992337164751,
                     "uniqueID": 496035,
                     "ioValues": [
                         {
@@ -1250,6 +1227,29 @@
                             "ioValue": 18
                         }
                     ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 0.06954612005856516,
+                    "y": 0.7547892720306513,
+                    "uniqueID": 170103,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 0.05197657393850659,
+                    "y": 0.9540229885057472,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
                 },
                 {
                     "atomType": "GitHubMolecule",
@@ -1444,13 +1444,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap2Primary": false,
-                    "ap1ID": 132788,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "number or geometry",
                     "ap2Name": "Y",
                     "ap2Primary": false,
                     "ap1ID": 830435,
@@ -1482,41 +1475,6 @@
                     "ap2Name": "Y",
                     "ap2Primary": false,
                     "ap1ID": 830435,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
                     "ap2ID": 972994
                 },
                 {
@@ -1528,10 +1486,10 @@
                 },
                 {
                     "ap1Name": "number or geometry",
-                    "ap2Name": "height",
+                    "ap2Name": "zDist",
                     "ap2Primary": false,
-                    "ap1ID": 946740,
-                    "ap2ID": 496035
+                    "ap1ID": 132788,
+                    "ap2ID": 347142
                 },
                 {
                     "ap1Name": "geometry",
@@ -1567,6 +1525,48 @@
                     "ap2Primary": false,
                     "ap1ID": 496035,
                     "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap2Primary": false,
+                    "ap1ID": 946740,
+                    "ap2ID": 496035
                 },
                 {
                     "ap1Name": "Geometry",
