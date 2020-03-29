@@ -1168,12 +1168,12 @@
             "uniqueID": 128495,
             "ioValues": [
                 {
-                    "name": "Height",
-                    "ioValue": 600
-                },
-                {
                     "name": "Width",
                     "ioValue": 1200
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 600
                 },
                 {
                     "name": "Length",
@@ -1686,12 +1686,12 @@
                     "uniqueID": 128495,
                     "ioValues": [
                         {
-                            "name": "Height",
-                            "ioValue": 600
-                        },
-                        {
                             "name": "Width",
                             "ioValue": 1200
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 600
                         },
                         {
                             "name": "Length",
