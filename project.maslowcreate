@@ -2,6 +2,465 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Table Top",
+            "x": 0.3191800878477306,
+            "y": 0.1992337164750958,
+            "uniqueID": 128495,
+            "ioValues": [
+                {
+                    "name": "Width",
+                    "ioValue": 1200
+                },
+                {
+                    "name": "Height",
+                    "ioValue": 600
+                },
+                {
+                    "name": "Length",
+                    "ioValue": 1000
+                },
+                {
+                    "name": "Wood Thickness",
+                    "ioValue": 18
+                }
+            ],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Width",
+                    "x": 0.09297218155197658,
+                    "y": 0.26053639846743293,
+                    "uniqueID": 830435,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 0.27306002928257683,
+                    "y": 0.24137931034482757,
+                    "uniqueID": 545706,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 400
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 0.09443631039531479,
+                    "y": 0.5019157088122606,
+                    "uniqueID": 132788,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 0.46559297218155193,
+                    "y": 0.2681992337164751,
+                    "uniqueID": 496035,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 18
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Length",
+                    "x": 0.06954612005856516,
+                    "y": 0.7547892720306513,
+                    "uniqueID": 170103,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Wood Thickness",
+                    "x": 0.05197657393850659,
+                    "y": 0.9540229885057472,
+                    "uniqueID": 946740,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 334,
+                    "y": 38,
+                    "uniqueID": 793139,
+                    "projectID": 187933479,
+                    "ioValues": [
+                        {
+                            "name": "X",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Y",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": 0.1
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": 0.5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 413,
+                    "y": 95,
+                    "uniqueID": 501890,
+                    "projectID": "187933479",
+                    "ioValues": [
+                        {
+                            "name": "X",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Y",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": -0.5
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": 0.4
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 477,
+                    "y": 150,
+                    "uniqueID": 236969,
+                    "projectID": "187933479",
+                    "ioValues": [
+                        {
+                            "name": "X",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Y",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": -0.5
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": -0.5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 544,
+                    "y": 209,
+                    "uniqueID": 578161,
+                    "projectID": "187933479",
+                    "ioValues": [
+                        {
+                            "name": "X",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Y",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": -0.1
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": -0.5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Proportional Shift",
+                    "x": 616,
+                    "y": 272,
+                    "uniqueID": 972994,
+                    "projectID": "187933479",
+                    "ioValues": [
+                        {
+                            "name": "X",
+                            "ioValue": 1000
+                        },
+                        {
+                            "name": "Y",
+                            "ioValue": 1200
+                        },
+                        {
+                            "name": "ScaleX",
+                            "ioValue": 0.5
+                        },
+                        {
+                            "name": "ScaleY",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 736,
+                    "y": 178,
+                    "uniqueID": 696987,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 565092",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 565092",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 381831",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 940281",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 500295",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 867741",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 639989",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 898,
+                    "y": 97,
+                    "uniqueID": 347142,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 600
+                        }
+                    ]
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap2Primary": false,
+                    "ap1ID": 830435,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap2Primary": false,
+                    "ap1ID": 830435,
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap2Primary": false,
+                    "ap1ID": 830435,
+                    "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap2Primary": false,
+                    "ap1ID": 830435,
+                    "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "Y",
+                    "ap2Primary": false,
+                    "ap1ID": 830435,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 545706,
+                    "ap2ID": 496035
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "zDist",
+                    "ap2Primary": false,
+                    "ap1ID": 132788,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 496035,
+                    "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 496035,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 496035,
+                    "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 496035,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 496035,
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 501890
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 578161
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 793139
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 236969
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "X",
+                    "ap2Primary": false,
+                    "ap1ID": 170103,
+                    "ap2ID": 972994
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "height",
+                    "ap2Primary": false,
+                    "ap1ID": 946740,
+                    "ap2ID": 496035
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 867741",
+                    "ap2Primary": false,
+                    "ap1ID": 793139,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 500295",
+                    "ap2Primary": false,
+                    "ap1ID": 501890,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 940281",
+                    "ap2Primary": false,
+                    "ap1ID": 236969,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 381831",
+                    "ap2Primary": false,
+                    "ap1ID": 578161,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 639989",
+                    "ap2Primary": false,
+                    "ap1ID": 972994,
+                    "ap2ID": 696987
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 696987,
+                    "ap2ID": 347142
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 347142
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Long Part Of Leg",
             "x": 343,
             "y": 111,
@@ -921,8 +1380,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 0.3111273792093704,
-            "y": 0.24521072796934865,
+            "x": 0.3235724743777452,
+            "y": 0.5440613026819924,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -1162,465 +1621,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Table Top",
-            "x": 0.31551976573938506,
-            "y": 0.5095785440613027,
-            "uniqueID": 128495,
-            "ioValues": [
-                {
-                    "name": "Width",
-                    "ioValue": 1200
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 600
-                },
-                {
-                    "name": "Length",
-                    "ioValue": 1000
-                },
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                }
-            ],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Input",
-                    "name": "Width",
-                    "x": 0.09297218155197658,
-                    "y": 0.26053639846743293,
-                    "uniqueID": 830435,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 0.27306002928257683,
-                    "y": 0.24137931034482757,
-                    "uniqueID": 545706,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 400
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 0.09443631039531479,
-                    "y": 0.5019157088122606,
-                    "uniqueID": 132788,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 0.46559297218155193,
-                    "y": 0.2681992337164751,
-                    "uniqueID": 496035,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 18
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Length",
-                    "x": 0.06954612005856516,
-                    "y": 0.7547892720306513,
-                    "uniqueID": 170103,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Wood Thickness",
-                    "x": 0.05197657393850659,
-                    "y": 0.9540229885057472,
-                    "uniqueID": 946740,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 0.9853587115666179,
-                    "y": 0.5,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 334,
-                    "y": 38,
-                    "uniqueID": 793139,
-                    "projectID": 187933479,
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": 0.1
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 413,
-                    "y": 95,
-                    "uniqueID": 501890,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0.4
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 477,
-                    "y": 150,
-                    "uniqueID": 236969,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": -0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 544,
-                    "y": 209,
-                    "uniqueID": 578161,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": -0.1
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": -0.5
-                        }
-                    ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Proportional Shift",
-                    "x": 616,
-                    "y": 272,
-                    "uniqueID": 972994,
-                    "projectID": "187933479",
-                    "ioValues": [
-                        {
-                            "name": "X",
-                            "ioValue": 1000
-                        },
-                        {
-                            "name": "Y",
-                            "ioValue": 1200
-                        },
-                        {
-                            "name": "ScaleX",
-                            "ioValue": 0.5
-                        },
-                        {
-                            "name": "ScaleY",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 736,
-                    "y": 178,
-                    "uniqueID": 696987,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 565092",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 565092",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 381831",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 940281",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 500295",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 867741",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 639989",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 898,
-                    "y": 97,
-                    "uniqueID": 347142,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 600
-                        }
-                    ]
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap2Primary": false,
-                    "ap1ID": 830435,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap2Primary": false,
-                    "ap1ID": 830435,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap2Primary": false,
-                    "ap1ID": 830435,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap2Primary": false,
-                    "ap1ID": 830435,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "Y",
-                    "ap2Primary": false,
-                    "ap1ID": 830435,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 545706,
-                    "ap2ID": 496035
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "zDist",
-                    "ap2Primary": false,
-                    "ap1ID": 132788,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 496035,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 496035,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 496035,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 496035,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 496035,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 501890
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 578161
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 793139
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 236969
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "X",
-                    "ap2Primary": false,
-                    "ap1ID": 170103,
-                    "ap2ID": 972994
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "height",
-                    "ap2Primary": false,
-                    "ap1ID": 946740,
-                    "ap2ID": 496035
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 867741",
-                    "ap2Primary": false,
-                    "ap1ID": 793139,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 500295",
-                    "ap2Primary": false,
-                    "ap1ID": 501890,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 940281",
-                    "ap2Primary": false,
-                    "ap1ID": 236969,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 381831",
-                    "ap2Primary": false,
-                    "ap1ID": 578161,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 639989",
-                    "ap2Primary": false,
-                    "ap1ID": 972994,
-                    "ap2ID": 696987
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 696987,
-                    "ap2ID": 347142
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 347142
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Cafe Table",
             "x": 0,
             "y": 0,
@@ -1655,34 +1655,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Leg",
-                    "x": 0.3111273792093704,
-                    "y": 0.24521072796934865,
-                    "uniqueID": 126979,
-                    "ioValues": [
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        },
-                        {
-                            "name": "Height",
-                            "ioValue": 600
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Input",
-                    "name": "Height",
-                    "x": 0.036603221083455345,
-                    "y": 0.5134099616858238,
-                    "uniqueID": 453938,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
                     "name": "Table Top",
-                    "x": 0.31551976573938506,
-                    "y": 0.5095785440613027,
+                    "x": 0.3191800878477306,
+                    "y": 0.1992337164750958,
                     "uniqueID": 128495,
                     "ioValues": [
                         {
@@ -1700,6 +1675,31 @@
                         {
                             "name": "Wood Thickness",
                             "ioValue": 18
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Height",
+                    "x": 0.036603221083455345,
+                    "y": 0.5134099616858238,
+                    "uniqueID": 453938,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Leg",
+                    "x": 0.3235724743777452,
+                    "y": 0.5440613026819924,
+                    "uniqueID": 126979,
+                    "ioValues": [
+                        {
+                            "name": "Wood Thickness",
+                            "ioValue": 18
+                        },
+                        {
+                            "name": "Height",
+                            "ioValue": 600
                         }
                     ]
                 },
@@ -1773,15 +1773,6 @@
                             "ioValue": -120
                         }
                     ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Export as JSON",
-                    "x": 0.8550512445095168,
-                    "y": 0.21455938697318008,
-                    "uniqueID": 296079,
-                    "projectID": "230192765",
-                    "ioValues": []
                 },
                 {
                     "atomType": "Input",
@@ -1907,8 +1898,8 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 126979,
-                    "ap2ID": 772913
+                    "ap1ID": 128495,
+                    "ap2ID": 394578
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1935,8 +1926,8 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 128495,
-                    "ap2ID": 394578
+                    "ap1ID": 126979,
+                    "ap2ID": 772913
                 },
                 {
                     "ap1Name": "geometry",
@@ -1985,13 +1976,6 @@
                     "ap2Primary": false,
                     "ap1ID": 736797,
                     "ap2ID": 989110
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 736797,
-                    "ap2ID": 296079
                 },
                 {
                     "ap1Name": "geometry",
