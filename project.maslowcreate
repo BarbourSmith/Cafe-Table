@@ -1868,6 +1868,14 @@
                     ]
                 },
                 {
+                    "atomType": "Svg",
+                    "name": "Svg",
+                    "x": 0.6493411420204978,
+                    "y": 0.5287356321839081,
+                    "uniqueID": 729607,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Input",
                     "name": "Length",
                     "x": 0.02489019033674963,
@@ -2018,6 +2026,13 @@
                     "ap2Primary": true,
                     "ap1ID": 989110,
                     "ap2ID": 384953
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 989110,
+                    "ap2ID": 729607
                 },
                 {
                     "ap1Name": "geometry",
