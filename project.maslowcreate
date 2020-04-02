@@ -1799,7 +1799,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.6603221083455344,
+                    "x": 0.6727672035139092,
                     "y": 0.1839080459770115,
                     "uniqueID": 384953,
                     "ioValues": [
@@ -1870,8 +1870,8 @@
                 {
                     "atomType": "Svg",
                     "name": "Svg",
-                    "x": 0.6493411420204978,
-                    "y": 0.5287356321839081,
+                    "x": 0.6756954612005857,
+                    "y": 0.5095785440613027,
                     "uniqueID": 729607,
                     "ioValues": []
                 },
@@ -1947,15 +1947,6 @@
                             "ioValue": 120
                         }
                     ]
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Export as JSON",
-                    "x": 0.6142020497803806,
-                    "y": 0.8473282442748092,
-                    "uniqueID": 921449,
-                    "projectID": "230192765",
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -2042,13 +2033,6 @@
                     "ap2Primary": false,
                     "ap1ID": 989110,
                     "ap2ID": 729607
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 989110,
-                    "ap2ID": 921449
                 },
                 {
                     "ap1Name": "geometry",
