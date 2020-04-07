@@ -13,7 +13,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Length",
@@ -269,7 +269,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -887,7 +887,7 @@
             "ioValues": [
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Wood Thickness",
@@ -920,7 +920,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ],
                     "currentEquation": "H*-1"
@@ -942,7 +942,7 @@
                     "ioValues": [
                         {
                             "name": "H",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ],
                     "currentEquation": "-.15*H"
@@ -982,7 +982,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": -300
                         },
                         {
                             "name": "yDist",
@@ -1003,7 +1003,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -600
+                            "ioValue": -300
                         },
                         {
                             "name": "yDist",
@@ -1024,7 +1024,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -90
+                            "ioValue": -45
                         },
                         {
                             "name": "yDist",
@@ -1045,7 +1045,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -90
+                            "ioValue": -45
                         },
                         {
                             "name": "yDist",
@@ -1182,8 +1182,7 @@
                             "name": "3D shape 838234",
                             "ioValue": 10
                         }
-                    ],
-                    "removeCutawayGeometry": true
+                    ]
                 },
                 {
                     "atomType": "Rotate",
@@ -1405,7 +1404,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 }
             ],
             "topLevel": false,
@@ -1498,7 +1497,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         },
                         {
                             "name": "Wood Thickness",
@@ -1529,8 +1528,7 @@
                             "name": "3D shape 4",
                             "ioValue": 10
                         }
-                    ],
-                    "removeCutawayGeometry": true
+                    ]
                 },
                 {
                     "atomType": "CutList",
@@ -1662,7 +1660,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 600
+                    "ioValue": 300
                 },
                 {
                     "name": "Width",
@@ -1696,7 +1694,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         },
                         {
                             "name": "Length",
@@ -1742,7 +1740,7 @@
                         },
                         {
                             "name": "Height",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -1863,7 +1861,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 600
+                            "ioValue": 300
                         }
                     ]
                 },
@@ -1906,8 +1904,7 @@
                             "name": "3D shape 683656",
                             "ioValue": 10
                         }
-                    ],
-                    "removeCutawayGeometry": true
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -1924,8 +1921,7 @@
                             "name": "3D shape 2",
                             "ioValue": 10
                         }
-                    ],
-                    "removeCutawayGeometry": true
+                    ]
                 },
                 {
                     "atomType": "Rotate",
