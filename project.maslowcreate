@@ -11,7 +11,7 @@
         },
         {
             "name": "Height",
-            "ioValue": 300
+            "ioValue": 700
         },
         {
             "name": "Width",
@@ -45,7 +45,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 300
+                    "ioValue": 700
                 },
                 {
                     "name": "Length",
@@ -301,7 +301,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 300
+                            "ioValue": 700
                         }
                     ]
                 },
@@ -540,7 +540,7 @@
                 },
                 {
                     "name": "Height",
-                    "ioValue": 300
+                    "ioValue": 700
                 }
             ],
             "topLevel": false,
@@ -1024,7 +1024,7 @@
                     "ioValues": [
                         {
                             "name": "Height",
-                            "ioValue": 300
+                            "ioValue": 700
                         },
                         {
                             "name": "Wood Thickness",
@@ -1057,7 +1057,7 @@
                             "ioValues": [
                                 {
                                     "name": "H",
-                                    "ioValue": 300
+                                    "ioValue": 700
                                 }
                             ],
                             "currentEquation": "H*-1"
@@ -1079,7 +1079,7 @@
                             "ioValues": [
                                 {
                                     "name": "H",
-                                    "ioValue": 300
+                                    "ioValue": 700
                                 }
                             ],
                             "currentEquation": "-.15*H"
@@ -1119,7 +1119,7 @@
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -300
+                                    "ioValue": -700
                                 },
                                 {
                                     "name": "yDist",
@@ -1140,7 +1140,7 @@
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -300
+                                    "ioValue": -700
                                 },
                                 {
                                     "name": "yDist",
@@ -1161,7 +1161,7 @@
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -45
+                                    "ioValue": -105
                                 },
                                 {
                                     "name": "yDist",
@@ -1182,7 +1182,7 @@
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -45
+                                    "ioValue": -105
                                 },
                                 {
                                     "name": "yDist",
@@ -1787,7 +1787,7 @@
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 300
+                    "ioValue": 700
                 }
             ]
         },
