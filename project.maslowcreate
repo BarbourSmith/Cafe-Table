@@ -530,8 +530,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 0.20717423133235727,
-            "y": 0.4406130268199233,
+            "x": 0.20937042459736457,
+            "y": 0.4482758620689655,
             "uniqueID": 126979,
             "ioValues": [
                 {
@@ -556,8 +556,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 0.20644216691068812,
-                    "y": 0.29118773946360155,
+                    "x": 0.20424597364568084,
+                    "y": 0.32950191570881227,
                     "uniqueID": 195812,
                     "ioValues": [
                         {
@@ -593,7 +593,7 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -10
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "zDist",
@@ -614,7 +614,7 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": -10
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "zDist",
@@ -1127,8 +1127,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.5241581259150805,
-                            "y": 0.4559386973180076,
+                            "x": 0.5234260614934114,
+                            "y": 0.45210727969348663,
                             "uniqueID": 381425,
                             "ioValues": [
                                 {
@@ -1190,8 +1190,8 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.5585651537335286,
-                            "y": 0.6551724137931034,
+                            "x": 0.5614934114202049,
+                            "y": 0.6283524904214559,
                             "uniqueID": 403710,
                             "ioValues": [
                                 {
@@ -1275,13 +1275,13 @@
                         {
                             "atomType": "Translate",
                             "name": "Translate",
-                            "x": 0.6346998535871157,
-                            "y": 0.8007662835249042,
+                            "x": 0.6354319180087848,
+                            "y": 0.7969348659003832,
                             "uniqueID": 928790,
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -10
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "yDist",
@@ -1309,7 +1309,7 @@
                             "ioValues": [
                                 {
                                     "name": "xDist",
-                                    "ioValue": -10
+                                    "ioValue": -5
                                 },
                                 {
                                     "name": "yDist",
