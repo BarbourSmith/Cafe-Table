@@ -1701,10 +1701,10 @@
         },
         {
             "atomType": "Input",
-            "name": "Height",
-            "x": 0.032210834553440704,
-            "y": 0.6053639846743295,
-            "uniqueID": 453938,
+            "name": "Wood Thickness",
+            "x": 0.03294289897510981,
+            "y": 0.5555555555555556,
+            "uniqueID": 185762,
             "ioValues": []
         },
         {
@@ -1771,6 +1771,14 @@
             ]
         },
         {
+            "atomType": "Input",
+            "name": "Height",
+            "x": 0.0314787701317716,
+            "y": 0.735632183908046,
+            "uniqueID": 453938,
+            "ioValues": []
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.5014641288433382,
@@ -1815,14 +1823,6 @@
                     "ioValue": 700
                 }
             ]
-        },
-        {
-            "atomType": "Input",
-            "name": "Wood Thickness",
-            "x": 0.0314787701317716,
-            "y": 0.8390804597701149,
-            "uniqueID": 185762,
-            "ioValues": []
         },
         {
             "atomType": "Svg",
@@ -1923,24 +1923,17 @@
         },
         {
             "ap1Name": "number or geometry",
-            "ap2Name": "Height",
+            "ap2Name": "Wood Thickness",
             "ap2Primary": false,
-            "ap1ID": 453938,
+            "ap1ID": 185762,
             "ap2ID": 126979
         },
         {
             "ap1Name": "number or geometry",
-            "ap2Name": "Height",
+            "ap2Name": "Wood Thickness",
             "ap2Primary": false,
-            "ap1ID": 453938,
+            "ap1ID": 185762,
             "ap2ID": 128495
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "zDist",
-            "ap2Primary": false,
-            "ap1ID": 453938,
-            "ap2ID": 772913
         },
         {
             "ap1Name": "geometry",
@@ -1969,6 +1962,27 @@
             "ap2Primary": false,
             "ap1ID": 384953,
             "ap2ID": 986841
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Height",
+            "ap2Primary": false,
+            "ap1ID": 453938,
+            "ap2ID": 126979
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Height",
+            "ap2Primary": false,
+            "ap1ID": 453938,
+            "ap2ID": 128495
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "zDist",
+            "ap2Primary": false,
+            "ap1ID": 453938,
+            "ap2ID": 772913
         },
         {
             "ap1Name": "geometry",
@@ -2004,20 +2018,6 @@
             "ap2Primary": false,
             "ap1ID": 772913,
             "ap2ID": 736797
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Wood Thickness",
-            "ap2Primary": false,
-            "ap1ID": 185762,
-            "ap2ID": 126979
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Wood Thickness",
-            "ap2Primary": false,
-            "ap1ID": 185762,
-            "ap2ID": 128495
         },
         {
             "ap1Name": "geometry",
