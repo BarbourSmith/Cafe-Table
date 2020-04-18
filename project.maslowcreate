@@ -26,10 +26,10 @@
     "allAtoms": [
         {
             "atomType": "Input",
-            "name": "Wood Thickness",
-            "x": 0.04904831625183016,
-            "y": 0.28735632183908044,
-            "uniqueID": 185762,
+            "name": "Width",
+            "x": 0.03294289897510981,
+            "y": 0.20306513409961685,
+            "uniqueID": 969106,
             "ioValues": []
         },
         {
@@ -505,6 +505,14 @@
                 }
             ],
             "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Input",
+            "name": "Length",
+            "x": 0.03294289897510981,
+            "y": 0.37931034482758624,
+            "uniqueID": 120940,
+            "ioValues": []
         },
         {
             "atomType": "Rotate",
@@ -1671,14 +1679,6 @@
             "fileTypeVersion": 1
         },
         {
-            "atomType": "Input",
-            "name": "Height",
-            "x": 0.036603221083455345,
-            "y": 0.5134099616858238,
-            "uniqueID": 453938,
-            "ioValues": []
-        },
-        {
             "atomType": "Translate",
             "name": "Translate",
             "x": 0.4465592972181552,
@@ -1698,6 +1698,14 @@
                     "ioValue": 0
                 }
             ]
+        },
+        {
+            "atomType": "Input",
+            "name": "Height",
+            "x": 0.032210834553440704,
+            "y": 0.6053639846743295,
+            "uniqueID": 453938,
+            "ioValues": []
         },
         {
             "atomType": "Rotate",
@@ -1763,14 +1771,6 @@
             ]
         },
         {
-            "atomType": "Input",
-            "name": "Width",
-            "x": 0.029282576866764276,
-            "y": 0.7318007662835249,
-            "uniqueID": 969106,
-            "ioValues": []
-        },
-        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.5014641288433382,
@@ -1817,19 +1817,19 @@
             ]
         },
         {
+            "atomType": "Input",
+            "name": "Wood Thickness",
+            "x": 0.0314787701317716,
+            "y": 0.8390804597701149,
+            "uniqueID": 185762,
+            "ioValues": []
+        },
+        {
             "atomType": "Svg",
             "name": "Svg",
             "x": 0.6756954612005857,
             "y": 0.5095785440613027,
             "uniqueID": 729607,
-            "ioValues": []
-        },
-        {
-            "atomType": "Input",
-            "name": "Length",
-            "x": 0.02489019033674963,
-            "y": 0.8888888888888888,
-            "uniqueID": 120940,
             "ioValues": []
         },
         {
@@ -1881,16 +1881,9 @@
     "allConnectors": [
         {
             "ap1Name": "number or geometry",
-            "ap2Name": "Wood Thickness",
+            "ap2Name": "Width",
             "ap2Primary": false,
-            "ap1ID": 185762,
-            "ap2ID": 126979
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Wood Thickness",
-            "ap2Primary": false,
-            "ap1ID": 185762,
+            "ap1ID": 969106,
             "ap2ID": 128495
         },
         {
@@ -1899,6 +1892,13 @@
             "ap2Primary": true,
             "ap1ID": 128495,
             "ap2ID": 394578
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Length",
+            "ap2Primary": false,
+            "ap1ID": 120940,
+            "ap2ID": 128495
         },
         {
             "ap1Name": "geometry",
@@ -1913,6 +1913,13 @@
             "ap2Primary": true,
             "ap1ID": 126979,
             "ap2ID": 772913
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 683656",
+            "ap2Primary": false,
+            "ap1ID": 121135,
+            "ap2ID": 736797
         },
         {
             "ap1Name": "number or geometry",
@@ -1934,13 +1941,6 @@
             "ap2Primary": false,
             "ap1ID": 453938,
             "ap2ID": 772913
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 683656",
-            "ap2Primary": false,
-            "ap1ID": 121135,
-            "ap2ID": 736797
         },
         {
             "ap1Name": "geometry",
@@ -1969,13 +1969,6 @@
             "ap2Primary": false,
             "ap1ID": 384953,
             "ap2ID": 986841
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "Width",
-            "ap2Primary": false,
-            "ap1ID": 969106,
-            "ap2ID": 128495
         },
         {
             "ap1Name": "geometry",
@@ -2014,9 +2007,16 @@
         },
         {
             "ap1Name": "number or geometry",
-            "ap2Name": "Length",
+            "ap2Name": "Wood Thickness",
             "ap2Primary": false,
-            "ap1ID": 120940,
+            "ap1ID": 185762,
+            "ap2ID": 126979
+        },
+        {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Wood Thickness",
+            "ap2Primary": false,
+            "ap1ID": 185762,
             "ap2ID": 128495
         },
         {
