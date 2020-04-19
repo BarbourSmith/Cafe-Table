@@ -6,20 +6,20 @@
     "uniqueID": 241510,
     "ioValues": [
         {
-            "name": "Wood Thickness",
-            "ioValue": 18
-        },
-        {
-            "name": "Height",
-            "ioValue": 700
-        },
-        {
             "name": "Width",
             "ioValue": 1200
         },
         {
             "name": "Length",
             "ioValue": 1000
+        },
+        {
+            "name": "Wood Thickness",
+            "ioValue": 18
+        },
+        {
+            "name": "Height",
+            "ioValue": 700
         }
     ],
     "topLevel": true,
