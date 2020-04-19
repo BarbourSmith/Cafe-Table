@@ -1731,7 +1731,7 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.5841874084919473,
+            "x": 0.5807730426164519,
             "y": 0.30268199233716475,
             "uniqueID": 989110,
             "ioValues": [
@@ -1775,6 +1775,31 @@
                 {
                     "name": "zDist",
                     "ioValue": 700
+                }
+            ]
+        },
+        {
+            "atomType": "Gcode",
+            "name": "Gcode",
+            "x": 0.7859266600594649,
+            "y": 0.12643678160919541,
+            "uniqueID": 529618,
+            "ioValues": [
+                {
+                    "name": "tool size",
+                    "ioValue": 6.35
+                },
+                {
+                    "name": "passes",
+                    "ioValue": 6
+                },
+                {
+                    "name": "speed",
+                    "ioValue": 500
+                },
+                {
+                    "name": "tabs",
+                    "ioValue": "true"
                 }
             ]
         },
@@ -1850,31 +1875,6 @@
                 {
                     "name": "z-axis degrees",
                     "ioValue": 120
-                }
-            ]
-        },
-        {
-            "atomType": "Gcode",
-            "name": "Gcode",
-            "x": 0.6838453914767096,
-            "y": 0.8505747126436781,
-            "uniqueID": 529618,
-            "ioValues": [
-                {
-                    "name": "tool size",
-                    "ioValue": 6.35
-                },
-                {
-                    "name": "passes",
-                    "ioValue": 6
-                },
-                {
-                    "name": "speed",
-                    "ioValue": 500
-                },
-                {
-                    "name": "tabs",
-                    "ioValue": "true"
                 }
             ]
         },
