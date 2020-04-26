@@ -1738,6 +1738,14 @@
                 {
                     "name": "Spacing",
                     "ioValue": 9
+                },
+                {
+                    "name": "Sheet Width",
+                    "ioValue": 50
+                },
+                {
+                    "name": "Sheet Length",
+                    "ioValue": 50
                 }
             ]
         },
@@ -1767,31 +1775,6 @@
                 {
                     "name": "zDist",
                     "ioValue": 700
-                }
-            ]
-        },
-        {
-            "atomType": "Gcode",
-            "name": "Gcode",
-            "x": 0.7888999008919723,
-            "y": 0.12643678160919541,
-            "uniqueID": 529618,
-            "ioValues": [
-                {
-                    "name": "tool size",
-                    "ioValue": 6.35
-                },
-                {
-                    "name": "passes",
-                    "ioValue": 6
-                },
-                {
-                    "name": "speed",
-                    "ioValue": 500
-                },
-                {
-                    "name": "tabs",
-                    "ioValue": "true"
                 }
             ]
         },
@@ -1972,13 +1955,6 @@
             "ap2Primary": false,
             "ap1ID": 989110,
             "ap2ID": 729607
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 989110,
-            "ap2ID": 529618
         },
         {
             "ap1Name": "number or geometry",
