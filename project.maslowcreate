@@ -1846,22 +1846,6 @@
             ]
         },
         {
-            "atomType": "Constant",
-            "name": "Constant",
-            "x": 0.5197657393850659,
-            "y": 0.8697318007662835,
-            "uniqueID": 700607,
-            "ioValues": [
-                {
-                    "name": "number",
-                    "ioValue": 10
-                }
-            ],
-            "evolve": false,
-            "min": 0,
-            "max": 20
-        },
-        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.7847730600292826,
