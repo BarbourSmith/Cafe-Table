@@ -1846,6 +1846,23 @@
             ]
         },
         {
+            "atomType": "Nest",
+            "name": "Nest",
+            "x": 0.5995607613469985,
+            "y": 0.7854406130268199,
+            "uniqueID": 806096,
+            "ioValues": [
+                {
+                    "name": "spacing",
+                    "ioValue": 0.3
+                },
+                {
+                    "name": "curveTolerance",
+                    "ioValue": 0.3
+                }
+            ]
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.7847730600292826,
@@ -1982,6 +1999,13 @@
             "ap2Primary": false,
             "ap1ID": 736797,
             "ap2ID": 986841
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 736797,
+            "ap2ID": 806096
         },
         {
             "ap1Name": "geometry",
