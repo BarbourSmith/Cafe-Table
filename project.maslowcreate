@@ -512,8 +512,8 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 0.20633299284984677,
-            "y": 0.450381679389313,
+            "x": 0.20122574055158324,
+            "y": 0.46564885496183206,
             "uniqueID": 126979,
             "ioValues": [],
             "topLevel": false,
@@ -527,10 +527,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.36090775988286966,
+                    "y": 0.16475095785440613,
+                    "uniqueID": 660965,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Top Triangle",
-                    "x": 0.20424597364568084,
-                    "y": 0.32950191570881227,
+                    "x": 0.20633299284984677,
+                    "y": 0.3549618320610687,
                     "uniqueID": 195812,
                     "ioValues": [],
                     "topLevel": false,
@@ -757,7 +774,7 @@
                             "ioValues": [
                                 {
                                     "name": "x-axis degrees",
-                                    "ioValue": 90
+                                    "ioValue": -90
                                 },
                                 {
                                     "name": "y-axis degrees",
@@ -905,23 +922,6 @@
                         }
                     ],
                     "fileTypeVersion": 1
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 0.36090775988286966,
-                    "y": 0.16475095785440613,
-                    "uniqueID": 660965,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
                 },
                 {
                     "atomType": "CutList",
@@ -1500,18 +1500,18 @@
                     "ap2ID": 916284
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 195812,
-                    "ap2ID": 469639
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 4",
                     "ap2Primary": false,
                     "ap1ID": 660965,
                     "ap2ID": 212483
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 195812,
+                    "ap2ID": 469639
                 },
                 {
                     "ap1Name": "geometry",
