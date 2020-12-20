@@ -38,24 +38,7 @@
             "x": 0.212298682284041,
             "y": 0.20689655172413796,
             "uniqueID": 128495,
-            "ioValues": [
-                {
-                    "name": "Width",
-                    "ioValue": 1200
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 700
-                },
-                {
-                    "name": "Length",
-                    "ioValue": 1000
-                },
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                }
-            ],
+            "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -85,12 +68,7 @@
                     "x": 0.30380673499267935,
                     "y": 0.16475095785440613,
                     "uniqueID": 496035,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 18
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "GitHubMolecule",
@@ -298,10 +276,6 @@
                         {
                             "name": "yDist",
                             "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 700
                         }
                     ]
                 },
@@ -538,19 +512,10 @@
         {
             "atomType": "Molecule",
             "name": "Leg",
-            "x": 0.20937042459736457,
-            "y": 0.4482758620689655,
+            "x": 0.20633299284984677,
+            "y": 0.450381679389313,
             "uniqueID": 126979,
-            "ioValues": [
-                {
-                    "name": "Wood Thickness",
-                    "ioValue": 18
-                },
-                {
-                    "name": "Height",
-                    "ioValue": 700
-                }
-            ],
+            "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -567,12 +532,7 @@
                     "x": 0.20424597364568084,
                     "y": 0.32950191570881227,
                     "uniqueID": 195812,
-                    "ioValues": [
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        }
-                    ],
+                    "ioValues": [],
                     "topLevel": false,
                     "allAtoms": [
                         {
@@ -581,12 +541,7 @@
                             "x": 0.15739385065885797,
                             "y": 0.20306513409961685,
                             "uniqueID": 731203,
-                            "ioValues": [
-                                {
-                                    "name": "height",
-                                    "ioValue": 18
-                                }
-                            ]
+                            "ioValues": []
                         },
                         {
                             "atomType": "Translate",
@@ -741,12 +696,7 @@
                             "x": 0.3550512445095168,
                             "y": 0.9348659003831418,
                             "uniqueID": 323914,
-                            "ioValues": [
-                                {
-                                    "name": "T",
-                                    "ioValue": 18
-                                }
-                            ],
+                            "ioValues": [],
                             "currentEquation": "2*T"
                         },
                         {
@@ -755,12 +705,7 @@
                             "x": 0.6581259150805271,
                             "y": 0.7662835249042146,
                             "uniqueID": 242593,
-                            "ioValues": [
-                                {
-                                    "name": "height",
-                                    "ioValue": 18
-                                }
-                            ]
+                            "ioValues": []
                         },
                         {
                             "atomType": "Rectangle",
@@ -769,10 +714,6 @@
                             "y": 0.8888888888888888,
                             "uniqueID": 646649,
                             "ioValues": [
-                                {
-                                    "name": "x length",
-                                    "ioValue": 36
-                                },
                                 {
                                     "name": "y length",
                                     "ioValue": 40
@@ -977,10 +918,6 @@
                             "ioValue": 0
                         },
                         {
-                            "name": "yDist",
-                            "ioValue": 18
-                        },
-                        {
                             "name": "zDist",
                             "ioValue": 0
                         }
@@ -1001,10 +938,6 @@
                     "y": 0.5210727969348659,
                     "uniqueID": 916284,
                     "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 18
-                        },
                         {
                             "name": "yDist",
                             "ioValue": 0
@@ -1029,16 +962,7 @@
                     "x": 0.14275256222547583,
                     "y": 0.7432950191570881,
                     "uniqueID": 592212,
-                    "ioValues": [
-                        {
-                            "name": "Height",
-                            "ioValue": 700
-                        },
-                        {
-                            "name": "Wood Thickness",
-                            "ioValue": 18
-                        }
-                    ],
+                    "ioValues": [],
                     "topLevel": false,
                     "allAtoms": [
                         {
@@ -1055,12 +979,7 @@
                             "x": 0.23792093704245976,
                             "y": 0.210727969348659,
                             "uniqueID": 930678,
-                            "ioValues": [
-                                {
-                                    "name": "H",
-                                    "ioValue": 700
-                                }
-                            ],
+                            "ioValues": [],
                             "currentEquation": "-.15*H"
                         },
                         {
@@ -1070,10 +989,6 @@
                             "y": 0.13793103448275862,
                             "uniqueID": 278925,
                             "ioValues": [
-                                {
-                                    "name": "xDist",
-                                    "ioValue": -700
-                                },
                                 {
                                     "name": "yDist",
                                     "ioValue": -170
@@ -1103,12 +1018,7 @@
                             "x": 0.2049780380673499,
                             "y": 0.5057471264367817,
                             "uniqueID": 268747,
-                            "ioValues": [
-                                {
-                                    "name": "H",
-                                    "ioValue": 700
-                                }
-                            ],
+                            "ioValues": [],
                             "currentEquation": "H*-1"
                         },
                         {
@@ -1118,10 +1028,6 @@
                             "y": 0.28735632183908044,
                             "uniqueID": 221738,
                             "ioValues": [
-                                {
-                                    "name": "xDist",
-                                    "ioValue": -700
-                                },
                                 {
                                     "name": "yDist",
                                     "ioValue": -150
@@ -1139,10 +1045,6 @@
                             "y": 0.4597701149425288,
                             "uniqueID": 381425,
                             "ioValues": [
-                                {
-                                    "name": "xDist",
-                                    "ioValue": -105
-                                },
                                 {
                                     "name": "yDist",
                                     "ioValue": 35
@@ -1203,10 +1105,6 @@
                             "uniqueID": 403710,
                             "ioValues": [
                                 {
-                                    "name": "xDist",
-                                    "ioValue": -105
-                                },
-                                {
                                     "name": "yDist",
                                     "ioValue": -35
                                 },
@@ -1239,12 +1137,7 @@
                             "x": 0.29209370424597364,
                             "y": 0.8582375478927203,
                             "uniqueID": 348683,
-                            "ioValues": [
-                                {
-                                    "name": "height",
-                                    "ioValue": 18
-                                }
-                            ]
+                            "ioValues": []
                         },
                         {
                             "atomType": "ShrinkWrap",
@@ -1537,19 +1430,11 @@
                     "fileTypeVersion": 1
                 },
                 {
-                    "atomType": "CutList",
-                    "name": "Add To Cutlist",
-                    "x": 0.24963396778916544,
-                    "y": 0.7892720306513409,
-                    "uniqueID": 216660,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 0.6449487554904832,
-                    "y": 0.5862068965517242,
-                    "uniqueID": 538336,
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 0.6404494382022472,
+                    "y": 0.4389312977099236,
+                    "uniqueID": 212483,
                     "ioValues": [
                         {
                             "name": "3D shape 1",
@@ -1568,6 +1453,14 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "CutList",
+                    "name": "Add To Cutlist",
+                    "x": 0.24963396778916544,
+                    "y": 0.7892720306513409,
+                    "uniqueID": 216660,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1618,7 +1511,7 @@
                     "ap2Name": "3D shape 4",
                     "ap2Primary": false,
                     "ap1ID": 660965,
-                    "ap2ID": 538336
+                    "ap2ID": 212483
                 },
                 {
                     "ap1Name": "geometry",
@@ -1632,14 +1525,14 @@
                     "ap2Name": "3D shape 3",
                     "ap2Primary": false,
                     "ap1ID": 469639,
-                    "ap2ID": 538336
+                    "ap2ID": 212483
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 2",
                     "ap2Primary": false,
                     "ap1ID": 916284,
-                    "ap2ID": 538336
+                    "ap2ID": 212483
                 },
                 {
                     "ap1Name": "number or geometry",
@@ -1657,6 +1550,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 212483
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 216660,
@@ -1667,13 +1566,7 @@
                     "ap2Name": "3D shape 1",
                     "ap2Primary": false,
                     "ap1ID": 216660,
-                    "ap2ID": 538336
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 538336
+                    "ap2ID": 212483
                 }
             ],
             "fileTypeVersion": 1
@@ -1775,10 +1668,6 @@
                 {
                     "name": "yDist",
                     "ioValue": -500
-                },
-                {
-                    "name": "zDist",
-                    "ioValue": 700
                 }
             ]
         },
