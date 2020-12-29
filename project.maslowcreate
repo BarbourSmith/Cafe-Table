@@ -36,7 +36,7 @@
             "atomType": "Molecule",
             "name": "Table Top",
             "x": 0.19689119170984457,
-            "y": 0.1717557251908397,
+            "y": 0.20610687022900762,
             "uniqueID": 128495,
             "ioValues": [
                 {
@@ -197,26 +197,6 @@
                     "y": 0.31800766283524906,
                     "uniqueID": 696987,
                     "ioValues": [
-                        {
-                            "name": "3D shape 867741",
-                            "ioValue": "atoms/241510/128495/793139/509072Translate"
-                        },
-                        {
-                            "name": "3D shape 639989",
-                            "ioValue": "atoms/241510/128495/972994/509072Translate"
-                        },
-                        {
-                            "name": "3D shape 940282",
-                            "ioValue": "atoms/241510/128495/501890/509072Translate"
-                        },
-                        {
-                            "name": "3D shape 940283",
-                            "ioValue": "atoms/241510/128495/578161/509072Translate"
-                        },
-                        {
-                            "name": "3D shape 940284",
-                            "ioValue": "atoms/241510/128495/236969/509072Translate"
-                        },
                         {
                             "name": "3D shape 940285",
                             "ioValue": ""
@@ -1104,12 +1084,7 @@
                     "x": 0.2891654465592972,
                     "y": 0.3563218390804597,
                     "uniqueID": 469639,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": "atoms/241510/126979/195812/220015Rotate"
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -1759,12 +1734,7 @@
                     "x": 0.24963396778916544,
                     "y": 0.7892720306513409,
                     "uniqueID": 216660,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": "atoms/241510/126979/592212/143776Rotate"
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1981,10 +1951,6 @@
             "uniqueID": 772913,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": "atoms/241510/126979/212483Union"
-                },
-                {
                     "name": "xDist",
                     "ioValue": 0
                 },
@@ -2160,5 +2126,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": "3.7"
+    "circleSegmentSize": "10"
 }
